@@ -1,0 +1,5842 @@
+{
+  "id": "1694",
+  "value": 0,
+  "app_id": 730,
+  "created_at": "2024-09-30T14:22:24.059Z",
+  "items": [
+    {
+      "asset_id": "14559785111",
+      "d": "29984520536702077",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.25400859117507935,
+      "paint_seed": 828,
+      "addons": null,
+      "item": {
+        "id": 6722,
+        "app_id": 730,
+        "market_hash_name": "★ Karambit | Lore (Field-Tested)",
+        "weapon_name": "Karambit",
+        "category": "Knife",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJl5W0nPbmMrbummRD7fp8j-3I4IG7jlHjqURuNTv6LYTBelI-ZFjS81W7l7_ogMK7vprLn3JivnMk5yuMzQv3308VwVZ0eg",
+        "type": "★ Covert Knife",
+        "rarity": "Covert",
+        "rarity_color": "eb4b4b",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 0.65,
+        "weapon_id": 507,
+        "paint_id": 561
+      }
+    },
+    {
+      "asset_id": "14557453026",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14557452976",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14557452960",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14557452923",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14551216204",
+      "d": "1030200533312743782",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 455,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Eat It (SWAT Blue)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0te2DG2HyJmbGeHCJSV9sGOFdYTvd_mWt5u2cSzvPQLt4FlgCfKcG9jFLbpvfP0MjlNlc7Wa3m0tvEwMkZsxWfBbmnndGM-R9BdYfGbc",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14530203474",
+      "d": "9695245045789642239",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2703014314174652,
+      "paint_seed": 954,
+      "addons": [
+        {
+          "name": "Pocket BBQ",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 119
+        },
+        {
+          "name": "apEX | Cologne 2015",
+          "slot": 1,
+          "wear": 0.23405653,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 449
+        },
+        {
+          "name": "Easy Peasy",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 22
+        },
+        {
+          "name": "Team EnVyUs | Cluj-Napoca 2015",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 950
+        }
+      ],
+      "item": {
+        "id": 44,
+        "app_id": 730,
+        "market_hash_name": "AK-47 | Redline (Field-Tested)",
+        "weapon_name": "AK-47",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5lpKKqPrxN7LEmyVS7cYg3LuT94qm21GyqUpsa2j7IIDDJwI7YwvRrFi7lOa5hpfpvs_A1zI97fpmYHCU",
+        "type": "Classified Rifle",
+        "rarity": "Classified",
+        "rarity_color": "d32ce6",
+        "exterior": "Field-Tested",
+        "float_min": 0.1,
+        "float_max": 0.7,
+        "weapon_id": 7,
+        "paint_id": 282
+      }
+    },
+    {
+      "asset_id": "14530203462",
+      "d": "9957144462404757140",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.6633093357086182,
+      "paint_seed": 198,
+      "addons": null,
+      "item": {
+        "id": 2150,
+        "app_id": 730,
+        "market_hash_name": "Dual Berettas | Dualing Dragons (Battle-Scarred)",
+        "weapon_name": "Dual Berettas",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dShD4N6zhpKOg-P1DL_Dl2xe5tZOguzA45W73QDs-UtsMGincISQcgY_MFDZ-1m2k7_ohJHuvpycwXc2s3Jxsy3Umgv330-6puz_KQ",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Battle-Scarred",
+        "float_min": 0,
+        "float_max": 1,
+        "weapon_id": 2,
+        "paint_id": 491
+      }
+    },
+    {
+      "asset_id": "14530203442",
+      "d": "4910696866115622604",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.43826887011528015,
+      "paint_seed": 490,
+      "addons": null,
+      "item": {
+        "id": 3037,
+        "app_id": 730,
+        "market_hash_name": "SSG 08 | Abyss (Well-Worn)",
+        "weapon_name": "SSG 08",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0uL3fThU5d2inIGFqPrxN7LEmyUI6sYj0-2Rpoqs0Va1-kU9Njr3INPGIQc_NFnQrlm8k-foh8e9uJuc1zI97ciat2da",
+        "type": "Mil-Spec Grade Sniper Rifle",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Well-Worn",
+        "float_min": 0,
+        "float_max": 1,
+        "weapon_id": 40,
+        "paint_id": 361
+      }
+    },
+    {
+      "asset_id": "14530203437",
+      "d": "156089437286868369",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2565992772579193,
+      "paint_seed": 495,
+      "addons": [
+        {
+          "name": "KRIMZ | Cologne 2015",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 389
+        },
+        {
+          "name": "cajunb | Cologne 2015",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 467
+        },
+        {
+          "name": "GeT_RiGhT | Cologne 2015",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 431
+        },
+        {
+          "name": "rain | Cologne 2015",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 551
+        }
+      ],
+      "item": {
+        "id": 1342,
+        "app_id": 730,
+        "market_hash_name": "StatTrak™ AK-47 | Elite Build (Field-Tested)",
+        "weapon_name": "AK-47",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LPr7Vn35cppwpju2Z9N6l3AKx_0E6Mjv3IYOSIQc5MlGE-VW_kLu5jMLovs7LyyN9-n51sJxz0nI",
+        "type": "StatTrak™ Mil-Spec Grade Rifle",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 1,
+        "weapon_id": 7,
+        "paint_id": 422
+      }
+    },
+    {
+      "asset_id": "14528860613",
+      "d": "12604136378379299748",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 753,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Ninja (Desert Amber)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3r-Zj3FYSfdTgw8RLRYM2qIqmalsO6cFj6fSb55RA0HKPcA92EdaJyNNkBp14AVu2u_0UdyEhk6f9BKZAarxm1OMLh9m3IWqNTJlOM",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14528860604",
+      "d": "6981178836373532428",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 711,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Jump Shot (Violent Violet)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0q_eADEvkYDjQYXHdHg9sS7VaNT6I9mCnsbyWF27BErsuEA5QL6oD9DVMO5yLOBBugYYVu2u_0UdyEhk6f9BKZAarxm1OMLt8miUUAX4SDyI",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14526076369",
+      "d": "4803165557479306415",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 7246,
+        "app_id": 730,
+        "market_hash_name": "Sticker | hazed (Foil) | Cologne 2015",
+        "weapon_name": null,
+        "category": "Sticker",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DfQOqohZ-CBhJnLANovru_LgNf1fzBfXMUvdjukYXSx66sYLrQlTxTuZdyib6WrN_xjATh-xc-Zj_yJNCdJgA8fxiOrRi-ceCP",
+        "type": "Exotic Sticker",
+        "rarity": "Exotic",
+        "rarity_color": "d32ce6",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14525050509",
+      "d": "13871665532178322539",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.5010994672775269,
+      "paint_seed": 765,
+      "addons": null,
+      "item": {
+        "id": 105,
+        "app_id": 730,
+        "market_hash_name": "AWP | Asiimov (Battle-Scarred)",
+        "weapon_name": "AWP",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJD_9W7m5a0n_L1JaKfk21XvZFyjLrC8Nms2gK1_EY5MW3zcI-SI1BqYguE_1a4kOu5hMS87oOJlyV2PoDpPA",
+        "type": "Covert Sniper Rifle",
+        "rarity": "Covert",
+        "rarity_color": "eb4b4b",
+        "exterior": "Battle-Scarred",
+        "float_min": 0.18,
+        "float_max": 1,
+        "weapon_id": 9,
+        "paint_id": 279
+      }
+    },
+    {
+      "asset_id": "14525050502",
+      "d": "12171226665909376649",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2274104803800583,
+      "paint_seed": 593,
+      "addons": null,
+      "item": {
+        "id": 9541,
+        "app_id": 730,
+        "market_hash_name": "StatTrak™ AWP | Mortis (Field-Tested)",
+        "weapon_name": "AWP",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-GkvP9JraflGlSuMFw2LnF9N6t0Fa1_BE4YGygdY7HcgI8NA7X_lPqwOa615C5v4OJlyWpC_Ptrg",
+        "type": "StatTrak™ Classified Sniper Rifle",
+        "rarity": "Classified",
+        "rarity_color": "d32ce6",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 0.64,
+        "weapon_id": 9,
+        "paint_id": 691
+      }
+    },
+    {
+      "asset_id": "14510823367",
+      "d": "7415192454640880376",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.31108957529067993,
+      "paint_seed": 136,
+      "addons": null,
+      "item": {
+        "id": 912,
+        "app_id": 730,
+        "market_hash_name": "Dual Berettas | Contractor (Field-Tested)",
+        "weapon_name": "Dual Berettas",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3YTBB09GzkImemrmla-3SxjhTscQhi7jDrYqn31Dh-0BqZm73JdLDc1Q_Y13Q-Fi9yefqm9bi68eOluDW",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 2,
+        "paint_id": 46
+      }
+    },
+    {
+      "asset_id": "14487832664",
+      "d": "12109308732129402635",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.22634604573249817,
+      "paint_seed": 697,
+      "addons": null,
+      "item": {
+        "id": 38,
+        "app_id": 730,
+        "market_hash_name": "USP-S | Cyrex (Field-Tested)",
+        "weapon_name": "USP-S",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j3KqnUjlRc7cF4n-SPrY6l3FDm-0FoMWHzcdTAJAU9Yw7U-gLvwbjmhsDqvMvJnCBl7CQntGGdwUI5Ca2EpQ",
+        "type": "Restricted Pistol",
+        "rarity": "Restricted",
+        "rarity_color": "8847ff",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 0.55,
+        "weapon_id": 61,
+        "paint_id": 637
+      }
+    },
+    {
+      "asset_id": "14464023525",
+      "d": "16718716321113135279",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 2847,
+        "app_id": 730,
+        "market_hash_name": "Sticker | mousesports (Holo) | MLG Columbus 2016",
+        "weapon_name": null,
+        "category": "Sticker",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DFSua4xJ2DAgs7KBdEibKqJwgu0fGbIWoTtYTjwNPSwvGmN-yAwTtUupN03u_H8d_20QWwrUY5YGvwJ5jVLFGoRznq2w",
+        "type": "Remarkable Sticker",
+        "rarity": "Remarkable",
+        "rarity_color": "8847ff",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14412903719",
+      "d": "623751438382396456",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.03662445768713951,
+      "paint_seed": 981,
+      "addons": null,
+      "item": {
+        "id": 1011,
+        "app_id": 730,
+        "market_hash_name": "UMP-45 | Labyrinth (Factory New)",
+        "weapon_name": "UMP-45",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3fTRM6c-Jm5KKmfDxDLfYkWNFppF33LuZrNqh2ACy-0Zqamz7cIPDclI3YVuF8gTsxe26gJK0786cz3Z9-n51jyA0bdI",
+        "type": "Mil-Spec Grade SMG",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.4,
+        "weapon_id": 24,
+        "paint_id": 362
+      }
+    },
+    {
+      "asset_id": "14412903705",
+      "d": "2450559416011737102",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2133493274450302,
+      "paint_seed": 863,
+      "addons": null,
+      "item": {
+        "id": 3542,
+        "app_id": 730,
+        "market_hash_name": "P2000 | Ivory (Field-Tested)",
+        "weapon_name": "P2000",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvozmxL-CgfjmKoTck29Y_cg_2r3EpYrwigPi_xc4YWr1INCRIw87MA7R8lS4kOu6hcfq7szBwHoxsz5iuyhYIPQIWQ",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 1,
+        "weapon_id": 32,
+        "paint_id": 357
+      }
+    },
+    {
+      "asset_id": "14412903632",
+      "d": "2326718339130736326",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.14514514803886414,
+      "paint_seed": 499,
+      "addons": null,
+      "item": {
+        "id": 469,
+        "app_id": 730,
+        "market_hash_name": "AUG | Contractor (Minimal Wear)",
+        "weapon_name": "AUG",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJO5du-gM6JkfL2MeuJkz4GvpAl3--RrIqi0APl_0U5Yjv3JYKUcwVrMAyDrwK_366x0qSHpP6l",
+        "type": "Consumer Grade Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 8,
+        "paint_id": 46
+      }
+    },
+    {
+      "asset_id": "14412903598",
+      "d": "3378270415390169",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.17414578795433044,
+      "paint_seed": 591,
+      "addons": null,
+      "item": {
+        "id": 1318,
+        "app_id": 730,
+        "market_hash_name": "SG 553 | Aerial (Field-Tested)",
+        "weapon_name": "SG 553",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLbUkmJE5Yski76S946t2AW3rxdpMWiictKcdwY9NAuG-lfsk-y9hcS1uZ7BzHZrpGB8smL5eQCm",
+        "type": "Mil-Spec Grade Rifle",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 0.6,
+        "weapon_id": 39,
+        "paint_id": 598
+      }
+    },
+    {
+      "asset_id": "14412903564",
+      "d": "10287488900531223168",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3254612684249878,
+      "paint_seed": 948,
+      "addons": null,
+      "item": {
+        "id": 103,
+        "app_id": 730,
+        "market_hash_name": "UMP-45 | Corporal (Field-Tested)",
+        "weapon_name": "UMP-45",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBS09-5hpCEhfb4DLbUkmJE5Ysp3byUrI-i3gaw-hdoMWv0dobEJgdvaQzV_1W8wO3mg5G1uZWcmHNgpGB8smzBQoxT",
+        "type": "Mil-Spec Grade SMG",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Field-Tested",
+        "float_min": 0.05,
+        "float_max": 0.75,
+        "weapon_id": 24,
+        "paint_id": 281
+      }
+    },
+    {
+      "asset_id": "14412903530",
+      "d": "12438984005536510615",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.30690208077430725,
+      "paint_seed": 734,
+      "addons": null,
+      "item": {
+        "id": 533,
+        "app_id": 730,
+        "market_hash_name": "G3SG1 | Jungle Dashed (Field-Tested)",
+        "weapon_name": "G3SG1",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMu4-s2AGy8xJoamr0J9fEcwU4Y1HUrFm2k-ju1sDv7ZWczHZj7iVw4ynD30vg5sRy09E",
+        "type": "Consumer Grade Sniper Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 11,
+        "paint_id": 147
+      }
+    },
+    {
+      "asset_id": "14412903388",
+      "d": "4940132564775288769",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.6483712792396545,
+      "paint_seed": 718,
+      "addons": null,
+      "item": {
+        "id": 1174,
+        "app_id": 730,
+        "market_hash_name": "Sawed-Off | Fubar (Battle-Scarred)",
+        "weapon_name": "Sawed-Off",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3di59_92hkYSEkfHLNa7Tl3lu4MBwnPCPptz3iQPjqRA9YW32Jo7DJw9tY1GG_1G_lenpgpG66Jmfz3Q3vSMns2GdwUJ9H_n1dw",
+        "type": "Mil-Spec Grade Shotgun",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Battle-Scarred",
+        "float_min": 0.4,
+        "float_max": 1,
+        "weapon_id": 29,
+        "paint_id": 552
+      }
+    },
+    {
+      "asset_id": "14412903306",
+      "d": "11853626228884922062",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.24122926592826843,
+      "paint_seed": 890,
+      "addons": null,
+      "item": {
+        "id": 228,
+        "app_id": 730,
+        "market_hash_name": "SSG 08 | Blue Spruce (Field-Tested)",
+        "weapon_name": "SSG 08",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O7kYSCgvq6a7_TxTME7Z0j3-2XpNWi3gSw_kVoZT-lI4eWe1NvZ1mFqFbqxejo0Yj84spJOB2PcQ",
+        "type": "Consumer Grade Sniper Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 40,
+        "paint_id": 96
+      }
+    },
+    {
+      "asset_id": "14412903298",
+      "d": "16343007308028648148",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.16729339957237244,
+      "paint_seed": 334,
+      "addons": null,
+      "item": {
+        "id": 741,
+        "app_id": 730,
+        "market_hash_name": "PP-Bizon | Urban Dashed (Field-Tested)",
+        "weapon_name": "PP-Bizon",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRc7cF4n-SPoN6s3wWw-RBlZWqhdYPDcAE8Y13R-Ffoybu60MPovp7AnScysiR0tmGdwUI6VbZbRA",
+        "type": "Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 26,
+        "paint_id": 149
+      }
+    },
+    {
+      "asset_id": "14412903266",
+      "d": "4786462884222100621",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.12885430455207825,
+      "paint_seed": 201,
+      "addons": [
+        {
+          "name": "MLG | MLG Columbus 2016",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 1071
+        },
+        {
+          "name": "Drug War Veteran",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 260
+        },
+        {
+          "name": "FaZe Clan | MLG Columbus 2016",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 1051
+        }
+      ],
+      "item": {
+        "id": 2453,
+        "app_id": 730,
+        "market_hash_name": "Desert Eagle | Night (Minimal Wear)",
+        "weapon_name": "Desert Eagle",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7ODHTjNL69Siq4yCkP_gfbrVlDgAvZ103rmZpI3z0VWx_0RsZz3yd4_AcAU4aV3V_Afox725hJ-i_MOepcNXm_4",
+        "type": "Industrial Grade Pistol",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 1,
+        "paint_id": 40
+      }
+    },
+    {
+      "asset_id": "14406658504",
+      "d": "2883124169003753372",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.21918156743049622,
+      "paint_seed": 949,
+      "addons": null,
+      "item": {
+        "id": 4,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Urban DDPAT (Field-Tested)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0mvLwOq7c2DkI7MMo2bjD94nwilLs-0ZoN2z1IIeScwBtNFiC81i_k-zpgJXt7Z3XiSw0Zq44eAs",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 30,
+        "paint_id": 17
+      }
+    },
+    {
+      "asset_id": "14379696990",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14379696985",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14379696983",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14379696981",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14379696976",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14379696971",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 460,
+        "app_id": 730,
+        "market_hash_name": "Operation Hydra Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOievyZVY31qHOd2sau9-zldmPwqbwZ-3Tw29U6cMnj-iQ8N_03Q3srktuNW_tZNjC3gAypq8",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14329538543",
+      "d": "16611577815507909550",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3959711194038391,
+      "paint_seed": 372,
+      "addons": null,
+      "item": {
+        "id": 8106,
+        "app_id": 730,
+        "market_hash_name": "StatTrak™ M4A1-S | Leaded Glass (Well-Worn)",
+        "weapon_name": "M4A1-S",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alDKjZl39F7ddOh-zF_Jn4xgG38kpqZDuidYeXJAc6Z1GCqVa-wri5jZXq7cvKmnE1vXN04HuLnUapwUYbG7XV66c",
+        "type": "StatTrak™ Classified Rifle",
+        "rarity": "Classified",
+        "rarity_color": "d32ce6",
+        "exterior": "Well-Worn",
+        "float_min": 0,
+        "float_max": 0.7,
+        "weapon_id": 60,
+        "paint_id": 681
+      }
+    },
+    {
+      "asset_id": "14312528771",
+      "d": "16162545267300689806",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 1495,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Eye Spy (Dust Brown)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pPuIHnX7ZHnAfCSPTg5tSeELZzrRqjCi5OXAE2vNQe5_QVpQfqNQpGYcb86Ba0A1ysdVrCO7mEhyDBs9ftFPYAOilywVZrlwzC1Stmib",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14312528708",
+      "d": "13098406939998786",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.7791702747344971,
+      "paint_seed": 161,
+      "addons": null,
+      "item": {
+        "id": 798,
+        "app_id": 730,
+        "market_hash_name": "AUG | Contractor (Battle-Scarred)",
+        "weapon_name": "AUG",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJK6d2gjc7ZxqD1YeuBlDkCvpR3iLnEp4jw0FblqUttNzj7dY7Acg42NFnSrFHs366x0uH-8h6G",
+        "type": "Consumer Grade Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Battle-Scarred",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 8,
+        "paint_id": 46
+      }
+    },
+    {
+      "asset_id": "14312528673",
+      "d": "12127783002801227793",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3319081664085388,
+      "paint_seed": 890,
+      "addons": null,
+      "item": {
+        "id": 537,
+        "app_id": 730,
+        "market_hash_name": "Nova | Polar Mesh (Field-Tested)",
+        "weapon_name": "Nova",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zFdC5K092kl5SClMj3PLXFhGpC_Pp8j-3I4IG70VGyrkNuZ2H1cYCUdFBsY1rS81C5wOu8jMK1tJmcwXZnv3EhtnvanQv330-rScVwsw",
+        "type": "Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 35,
+        "paint_id": 107
+      }
+    },
+    {
+      "asset_id": "14312528665",
+      "d": "3378831280763479430",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 710,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Quickdraw (Bazooka Pink)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pveDD3n4YzKKKyWJTAduS-cKNT2P_2Gg5ryUEDnBQ7ooFgoMLPACp2cdP8zcOxpsh5lLpWL-lEtxEQQlZ8lSeR-30ykRMOt9ynN86bBGGg",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14271171420",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.08476091176271439,
+      "paint_seed": 486,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271171374",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.1379353553056717,
+      "paint_seed": 388,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271171209",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.08387774229049683,
+      "paint_seed": 264,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271171106",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.13577739894390106,
+      "paint_seed": 336,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271171070",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.10255546122789383,
+      "paint_seed": 568,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170936",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.1442873179912567,
+      "paint_seed": 853,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170777",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.11730468273162842,
+      "paint_seed": 785,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170726",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.12926073372364044,
+      "paint_seed": 970,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170693",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.14572401344776154,
+      "paint_seed": 960,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170586",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.08843940496444702,
+      "paint_seed": 952,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170545",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.10208295285701752,
+      "paint_seed": 863,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170516",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.10487046837806702,
+      "paint_seed": 970,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170482",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.10459067672491074,
+      "paint_seed": 497,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170441",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.13174888491630554,
+      "paint_seed": 242,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170390",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.12609629333019257,
+      "paint_seed": 94,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170338",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.1196204423904419,
+      "paint_seed": 125,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170212",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.0927576795220375,
+      "paint_seed": 999,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170169",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.1098659485578537,
+      "paint_seed": 594,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271170089",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.14147064089775085,
+      "paint_seed": 313,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271169973",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.11362110078334808,
+      "paint_seed": 700,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271169934",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.07092662900686264,
+      "paint_seed": 172,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271169880",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.09963008016347885,
+      "paint_seed": 206,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271169835",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.10710213333368301,
+      "paint_seed": 560,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271169794",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.09905891120433807,
+      "paint_seed": 169,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271169564",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.08263582736253738,
+      "paint_seed": 912,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271169525",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.09739869087934494,
+      "paint_seed": 361,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271169502",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.10427475720643997,
+      "paint_seed": 487,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14271169464",
+      "d": "12267889113936002494",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.12714031338691711,
+      "paint_seed": 984,
+      "addons": null,
+      "item": {
+        "id": 1740,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Ice Cap (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 30,
+        "paint_id": 599
+      }
+    },
+    {
+      "asset_id": "14240019758",
+      "d": "14271457392926434029",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.09722163528203964,
+      "paint_seed": 719,
+      "addons": [
+        {
+          "name": "LUCAS1 | Krakow 2017",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2367
+        },
+        {
+          "name": "steel | Krakow 2017",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2370
+        }
+      ],
+      "item": {
+        "id": 2304,
+        "app_id": 730,
+        "market_hash_name": "Desert Eagle | Oxide Blaze (Minimal Wear)",
+        "weapon_name": "Desert Eagle",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH_9mkgL-OlvD4NoTSmXlD58F0hNbN_Iv9nBri-BJoMm_7cIWXcAU2Zl7X_FXskLvvgpa4v5nNnSY1vnYq4ymJyUPkn1gSOSCcmzDg",
+        "type": "Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.5,
+        "weapon_id": 1,
+        "paint_id": 645
+      }
+    },
+    {
+      "asset_id": "14216017909",
+      "d": "1035876034831975822",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 2863,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Bling (Jungle Green)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0r-eOF3j2azL7Ky7VEF96U-dfPT6PqzH05byVSjzJEu99Fw4EfPYG8jBIPZiJaxo5hYZf8jfpzh0zDhgvNMZJfACpx2EfJbQ1xDhPcZpVyCChHZxJXUY",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14216017866",
+      "d": "11837190357091804578",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 701,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Toasted (Monster Purple)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0rO2BBTqgPGPGLHSKTQ0_H-ZZNjyP-Tb0sLmUFmvPRLl5S1gHfKVQ-zJMPJuAIVJjg5FYpGm3hUloEgIhYslfLVm-nnJKN-AvsM1r",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14216017727",
+      "d": "13890972239748270882",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 870,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Mr. Teeth (Battle Green)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3z2eCfdYXbfSA5rTuZXPGrQ-TSs5-vGETicRL4tEA9VL_ZV9WUfPJvbOxZr0IUVu2u_0UdyEhk6f9BKZAarxm1OZuV8zHRBk0RxHo8",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14187879481",
+      "d": "12459460028548095235",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3838628828525543,
+      "paint_seed": 775,
+      "addons": [
+        {
+          "name": "Gambit Esports (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2439
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        },
+        {
+          "name": "fitch (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2569
+        }
+      ],
+      "item": {
+        "id": 5998,
+        "app_id": 730,
+        "market_hash_name": "Souvenir Sawed-Off | Sage Spray (Well-Worn)",
+        "weapon_name": "Sawed-Off",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOh-zF_Jn4xlG2_EtoMjzycNKVe1JsMA3R_lTvlLu5jZK0uZ_KwHRr7HEj4X2PmBOpwUYbtviJrH0",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Well-Worn",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 29,
+        "paint_id": 119
+      }
+    },
+    {
+      "asset_id": "14187879300",
+      "d": "928525349537477887",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.18285703659057617,
+      "paint_seed": 242,
+      "addons": [
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "Golden (Gold) | Boston 2018",
+          "slot": 4,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2626
+        }
+      ],
+      "item": {
+        "id": 2509,
+        "app_id": 730,
+        "market_hash_name": "Souvenir G3SG1 | Safari Mesh (Field-Tested)",
+        "weapon_name": "G3SG1",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7c2DtT6p0j37iUo4_23VW3rkM4azv7ddORIA42aFqE-VnvxL2-hJG5upnXiSw0YOykXs8",
+        "type": "Souvenir Consumer Grade Sniper Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 11,
+        "paint_id": 72
+      }
+    },
+    {
+      "asset_id": "14187879210",
+      "d": "9810685717030768000",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.48517775535583496,
+      "paint_seed": 900,
+      "addons": [
+        {
+          "name": "Avangar (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2511
+        },
+        {
+          "name": "Space Soldiers (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2503
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "buster (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2833
+        }
+      ],
+      "item": {
+        "id": 6190,
+        "app_id": 730,
+        "market_hash_name": "Souvenir P250 | Bone Mask (Battle-Scarred)",
+        "weapon_name": "P250",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09SzlZaS2a-tY-qAxDlTvMR1i-zErd2iiQyx8hc_MWynJ9KWIwFsY1HY_la3ybzxxcjrbJFqRuA",
+        "type": "Souvenir Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Battle-Scarred",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 36,
+        "paint_id": 27
+      }
+    },
+    {
+      "asset_id": "14187879087",
+      "d": "9412748081537597062",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2703099548816681,
+      "paint_seed": 164,
+      "addons": [
+        {
+          "name": "FalleN (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2641
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        }
+      ],
+      "item": {
+        "id": 2233,
+        "app_id": 730,
+        "market_hash_name": "Souvenir UMP-45 | Scorched (Field-Tested)",
+        "weapon_name": "UMP-45",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwOP3dTxS_NCzq42Ok_7hPvXSkjkI6cQlj7iTod2j2wftqUZrYz33JYGTJgFsZA6B-VK8xejt1J_pot2XntYt-glb",
+        "type": "Souvenir Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 24,
+        "paint_id": 175
+      }
+    },
+    {
+      "asset_id": "14187879039",
+      "d": "640075086735395854",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.15554438531398773,
+      "paint_seed": 53,
+      "addons": [
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "FalleN (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2641
+        }
+      ],
+      "item": {
+        "id": 7180,
+        "app_id": 730,
+        "market_hash_name": "Souvenir P2000 | Grassland (Field-Tested)",
+        "weapon_name": "P2000",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbfgJF_t2lh4yKmfPLPr7Vn35cppQiie2Qoomm2gfn-0U-NjjwI4WXdQVsYF-G-Fa_k-frhMe-u57InXt9-n51HHcZ8HE",
+        "type": "Souvenir Industrial Grade Pistol",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 32,
+        "paint_id": 95
+      }
+    },
+    {
+      "asset_id": "14187878997",
+      "d": "5099814498793743430",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2345050424337387,
+      "paint_seed": 65,
+      "addons": [
+        {
+          "name": "EliGE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2818
+        },
+        {
+          "name": "Team Liquid (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2507
+        },
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 7180,
+        "app_id": 730,
+        "market_hash_name": "Souvenir P2000 | Grassland (Field-Tested)",
+        "weapon_name": "P2000",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbfgJF_t2lh4yKmfPLPr7Vn35cppQiie2Qoomm2gfn-0U-NjjwI4WXdQVsYF-G-Fa_k-frhMe-u57InXt9-n51HHcZ8HE",
+        "type": "Souvenir Industrial Grade Pistol",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 32,
+        "paint_id": 95
+      }
+    },
+    {
+      "asset_id": "14187878952",
+      "d": "868287376211145573",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.13217732310295105,
+      "paint_seed": 454,
+      "addons": [
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "FaZe Clan (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2495
+        },
+        {
+          "name": "GuardiaN (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2773
+        },
+        {
+          "name": "Cloud9 (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2475
+        }
+      ],
+      "item": {
+        "id": 5250,
+        "app_id": 730,
+        "market_hash_name": "Souvenir Sawed-Off | Sage Spray (Minimal Wear)",
+        "weapon_name": "Sawed-Off",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOhuDG_Zi7jA2wqkM5amuhLIfEcQ42ZQvW_1Hrybu81pDu75jMnXI2vSkkty2OnAv330_zd9FC3w",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 29,
+        "paint_id": 119
+      }
+    },
+    {
+      "asset_id": "14187878900",
+      "d": "3235280856329941392",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.47527819871902466,
+      "paint_seed": 866,
+      "addons": [
+        {
+          "name": "chopper (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2788
+        },
+        {
+          "name": "Vega Squadron (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2499
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "G2 Esports (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2471
+        }
+      ],
+      "item": {
+        "id": 2927,
+        "app_id": 730,
+        "market_hash_name": "Souvenir M249 | Contrast Spray (Battle-Scarred)",
+        "weapon_name": "M249",
+        "category": "Machinegun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhzw8zbYS9D9eO-kYGdjrn1Z-yJwzgH7MYp2-yU8dun3Ay2_RJpZWD0I9eXJgdtZVvXqwW9xObom9bi6wBRSR4U",
+        "type": "Souvenir Consumer Grade Machinegun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Battle-Scarred",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 14,
+        "paint_id": 22
+      }
+    },
+    {
+      "asset_id": "14187878856",
+      "d": "10109644847394493246",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.21665111184120178,
+      "paint_seed": 227,
+      "addons": [
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "KRIMZ (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2632
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        }
+      ],
+      "item": {
+        "id": 2239,
+        "app_id": 730,
+        "market_hash_name": "Souvenir M249 | Contrast Spray (Field-Tested)",
+        "weapon_name": "M249",
+        "category": "Machinegun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhzw8zbYS9D9eO7kYSCgvq6MLnXxGlT7sYmjL-ZoYijjQy2rUVoZzv6d4PHdQJsNV3XqVO-kum6h4j84srwmAUlJA",
+        "type": "Souvenir Consumer Grade Machinegun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 14,
+        "paint_id": 22
+      }
+    },
+    {
+      "asset_id": "14187878807",
+      "d": "14285460370266379972",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.22170105576515198,
+      "paint_seed": 75,
+      "addons": [
+        {
+          "name": "Vega Squadron (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2499
+        },
+        {
+          "name": "G2 Esports (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2471
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "chopper (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2788
+        }
+      ],
+      "item": {
+        "id": 2233,
+        "app_id": 730,
+        "market_hash_name": "Souvenir UMP-45 | Scorched (Field-Tested)",
+        "weapon_name": "UMP-45",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwOP3dTxS_NCzq42Ok_7hPvXSkjkI6cQlj7iTod2j2wftqUZrYz33JYGTJgFsZA6B-VK8xejt1J_pot2XntYt-glb",
+        "type": "Souvenir Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 24,
+        "paint_id": 175
+      }
+    },
+    {
+      "asset_id": "14187878762",
+      "d": "5399396352105624181",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2381787896156311,
+      "paint_seed": 168,
+      "addons": [
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "G2 Esports (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2471
+        },
+        {
+          "name": "Skadoodle (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2704
+        },
+        {
+          "name": "Cloud9 (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2475
+        }
+      ],
+      "item": {
+        "id": 5609,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Storm (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbZTJQ4dqkm46fqPrxN7LEmyUAvJBz2--Xpt3w2Fe3qUE4NT-gLNXHcgE8Yl6F-wDrl-zv1pK-v8_J1zI97QAw1uAu",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 100
+      }
+    },
+    {
+      "asset_id": "14187878670",
+      "d": "12413688787092364071",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.20766399800777435,
+      "paint_seed": 952,
+      "addons": [
+        {
+          "name": "Cloud9 (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2475
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "tarik (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2710
+        },
+        {
+          "name": "FaZe Clan (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2495
+        }
+      ],
+      "item": {
+        "id": 2234,
+        "app_id": 730,
+        "market_hash_name": "Souvenir Sawed-Off | Sage Spray (Field-Tested)",
+        "weapon_name": "Sawed-Off",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOh-zF_Jn4xlG2_EtoMjzycNKVe1JsMA3R_lTvlLu5jZK0uZ_KwHRr7HEj4X2PmBOpwUYbtviJrH0",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 29,
+        "paint_id": 119
+      }
+    },
+    {
+      "asset_id": "14187878638",
+      "d": "632371901295835289",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2157982587814331,
+      "paint_seed": 211,
+      "addons": [
+        {
+          "name": "KRIMZ (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2632
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        }
+      ],
+      "item": {
+        "id": 5609,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Storm (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbZTJQ4dqkm46fqPrxN7LEmyUAvJBz2--Xpt3w2Fe3qUE4NT-gLNXHcgE8Yl6F-wDrl-zv1pK-v8_J1zI97QAw1uAu",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 100
+      }
+    },
+    {
+      "asset_id": "14187878362",
+      "d": "16457918916437334197",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.16038095951080322,
+      "paint_seed": 477,
+      "addons": [
+        {
+          "name": "flamie (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2734
+        },
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 4406,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187878248",
+      "d": "882710073292922878",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.12291193008422852,
+      "paint_seed": 825,
+      "addons": [
+        {
+          "name": "North (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2467
+        },
+        {
+          "name": "jR (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2794
+        },
+        {
+          "name": "Vega Squadron (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2499
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 886,
+        "app_id": 730,
+        "market_hash_name": "Souvenir M249 | Contrast Spray (Minimal Wear)",
+        "weapon_name": "M249",
+        "category": "Machinegun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhzw8zbYS9D9eO6nYeDg7nxZLqAkm8C7ZIpj--QpNmsjgbkqEo_Ymz1LNSWc1doZVGF8wPtwb-9m9bi66mGUYNz",
+        "type": "Souvenir Consumer Grade Machinegun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 14,
+        "paint_id": 22
+      }
+    },
+    {
+      "asset_id": "14187877976",
+      "d": "9367600063631438041",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3831571340560913,
+      "paint_seed": 965,
+      "addons": [
+        {
+          "name": "Quantum Bellator Fire (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2527
+        },
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "flamie (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2734
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 3110,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Well-Worn)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Well-Worn",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187877896",
+      "d": "11837751215516135453",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.35022616386413574,
+      "paint_seed": 322,
+      "addons": [
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Quantum Bellator Fire (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2527
+        },
+        {
+          "name": "Edward (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2728
+        }
+      ],
+      "item": {
+        "id": 4406,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187877831",
+      "d": "7398368340930713143",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.20858268439769745,
+      "paint_seed": 971,
+      "addons": [
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "Quantum Bellator Fire (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2527
+        },
+        {
+          "name": "flamie (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2734
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 4406,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187877807",
+      "d": "14133676953389044755",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.6795345544815063,
+      "paint_seed": 909,
+      "addons": [
+        {
+          "name": "Vega Squadron (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2499
+        },
+        {
+          "name": "chopper (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2788
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Team Liquid (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2507
+        }
+      ],
+      "item": {
+        "id": 1773,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Battle-Scarred)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09SzlZaS2fOiYujUlz0F6pIj3LGWotygjQCxr0Q-MTzyJdfDJwVrN17U_wC8lL_xxcjr8lpyKEo",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Battle-Scarred",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187877730",
+      "d": "470705335136018375",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.16539284586906433,
+      "paint_seed": 124,
+      "addons": [
+        {
+          "name": "JW (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2629
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        }
+      ],
+      "item": {
+        "id": 2234,
+        "app_id": 730,
+        "market_hash_name": "Souvenir Sawed-Off | Sage Spray (Field-Tested)",
+        "weapon_name": "Sawed-Off",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOh-zF_Jn4xlG2_EtoMjzycNKVe1JsMA3R_lTvlLu5jZK0uZ_KwHRr7HEj4X2PmBOpwUYbtviJrH0",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 29,
+        "paint_id": 119
+      }
+    },
+    {
+      "asset_id": "14187877565",
+      "d": "7830176902467541172",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.12035471200942993,
+      "paint_seed": 178,
+      "addons": [
+        {
+          "name": "G2 Esports (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2471
+        },
+        {
+          "name": "NBK- (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2692
+        },
+        {
+          "name": "Quantum Bellator Fire (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2527
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 5129,
+        "app_id": 730,
+        "market_hash_name": "Souvenir PP-Bizon | Chemical Green (Minimal Wear)",
+        "weapon_name": "PP-Bizon",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3di9H9eO4gYOHkvbmDLzDk25f18d4kObPyoD8j1yg5UNlazilII6Scwc4M12GqVjsw-_nh8e1u5mczHEw7CF05Hjfm0HighBSLrs4OJBaedY",
+        "type": "Souvenir Industrial Grade SMG",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.9,
+        "weapon_id": 26,
+        "paint_id": 376
+      }
+    },
+    {
+      "asset_id": "14187877486",
+      "d": "12161067574077027548",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.12627115845680237,
+      "paint_seed": 8,
+      "addons": [
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "ropz (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2749
+        },
+        {
+          "name": "FaZe Clan (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2495
+        },
+        {
+          "name": "mousesports (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2487
+        }
+      ],
+      "item": {
+        "id": 5917,
+        "app_id": 730,
+        "market_hash_name": "Souvenir PP-Bizon | Irradiated Alert (Minimal Wear)",
+        "weapon_name": "PP-Bizon",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRd4cJ5nqfHotqiigbkqhY6ZDv7J9XHJ1VtZVHY-Vm6lOfmhZK0us6fnCQws3Ek-z-DyAOMOad8",
+        "type": "Souvenir Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 26,
+        "paint_id": 171
+      }
+    },
+    {
+      "asset_id": "14187877380",
+      "d": "16339095233837151473",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.38191327452659607,
+      "paint_seed": 829,
+      "addons": [
+        {
+          "name": "mousesports (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2487
+        },
+        {
+          "name": "Avangar (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2511
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "dimasick (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2836
+        }
+      ],
+      "item": {
+        "id": 5811,
+        "app_id": 730,
+        "market_hash_name": "Souvenir G3SG1 | Safari Mesh (Well-Worn)",
+        "weapon_name": "G3SG1",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7c2DtT6p0j37iUo4_23VW3rkM4azv7ddORIA42aFqE-VnvxL2-hJG5upnXiSw0YOykXs8",
+        "type": "Souvenir Consumer Grade Sniper Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Well-Worn",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 11,
+        "paint_id": 72
+      }
+    },
+    {
+      "asset_id": "14187877339",
+      "d": "14730157607021352036",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.30330684781074524,
+      "paint_seed": 565,
+      "addons": [
+        {
+          "name": "FaZe Clan (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2495
+        },
+        {
+          "name": "Cloud9 (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2475
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "karrigan (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2776
+        }
+      ],
+      "item": {
+        "id": 3109,
+        "app_id": 730,
+        "market_hash_name": "Souvenir AUG | Colony (Field-Tested)",
+        "weapon_name": "AUG",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj5Nr_Yg2Yf7ZMg3riZ8YmiiVDg-BBkYDv0ddOUclRqaQ2E-1O9yL3uhJLq6MvJnWwj5HeOUeuJoA",
+        "type": "Souvenir Consumer Grade Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 8,
+        "paint_id": 47
+      }
+    },
+    {
+      "asset_id": "14187877167",
+      "d": "14010311998486568154",
+      "low_rank": 522,
+      "high_rank": null,
+      "float_value": 0.10145947337150574,
+      "paint_seed": 328,
+      "addons": [
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Dosia (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2566
+        },
+        {
+          "name": "Gambit Esports (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2439
+        },
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        }
+      ],
+      "item": {
+        "id": 5917,
+        "app_id": 730,
+        "market_hash_name": "Souvenir PP-Bizon | Irradiated Alert (Minimal Wear)",
+        "weapon_name": "PP-Bizon",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRd4cJ5nqfHotqiigbkqhY6ZDv7J9XHJ1VtZVHY-Vm6lOfmhZK0us6fnCQws3Ek-z-DyAOMOad8",
+        "type": "Souvenir Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 26,
+        "paint_id": 171
+      }
+    },
+    {
+      "asset_id": "14187877109",
+      "d": "2370664170173086782",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.35441574454307556,
+      "paint_seed": 524,
+      "addons": [
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Gambit Esports (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2439
+        },
+        {
+          "name": "AdreN (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2563
+        }
+      ],
+      "item": {
+        "id": 1447,
+        "app_id": 730,
+        "market_hash_name": "Souvenir PP-Bizon | Irradiated Alert (Field-Tested)",
+        "weapon_name": "PP-Bizon",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRc7cF4n-SPpdWn0Q2xqBdsN271dY7GdwNtM1qD_1C6ybq9g5O5uZWaynU37igrs2GdwUJYLxr5gg",
+        "type": "Souvenir Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 26,
+        "paint_id": 171
+      }
+    },
+    {
+      "asset_id": "14187876992",
+      "d": "16891313500764146781",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.14341674745082855,
+      "paint_seed": 361,
+      "addons": [
+        {
+          "name": "FalleN (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2641
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        }
+      ],
+      "item": {
+        "id": 6763,
+        "app_id": 730,
+        "market_hash_name": "Souvenir Five-SeveN | Contractor (Minimal Wear)",
+        "weapon_name": "Five-SeveN",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-HnvD8J_WEkmkAv5Qh2L7ErY6jige38kQ6Z2GiLNPHJFdvNA2D-1jtw-66jJLpot2Xnq0nCve5",
+        "type": "Souvenir Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 3,
+        "paint_id": 46
+      }
+    },
+    {
+      "asset_id": "14187876941",
+      "d": "759609154001855673",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3806806802749634,
+      "paint_seed": 579,
+      "addons": [
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "GuardiaN (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2773
+        },
+        {
+          "name": "FaZe Clan (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2495
+        },
+        {
+          "name": "Cloud9 (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2475
+        }
+      ],
+      "item": {
+        "id": 8156,
+        "app_id": 730,
+        "market_hash_name": "Souvenir Five-SeveN | Contractor (Well-Worn)",
+        "weapon_name": "Five-SeveN",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-GkvP9JrafwmkA6ZEm0rGXoIihiw3hqkQ6YW_0cIeUcFNsZ1rQ_1O-kOjugZG7vYOJlyVSyOsEpA",
+        "type": "Souvenir Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Well-Worn",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 3,
+        "paint_id": 46
+      }
+    },
+    {
+      "asset_id": "14187876838",
+      "d": "6938041577442036599",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2359267771244049,
+      "paint_seed": 307,
+      "addons": [
+        {
+          "name": "Astralis (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2447
+        },
+        {
+          "name": "oskar (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2746
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "mousesports (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2487
+        }
+      ],
+      "item": {
+        "id": 3617,
+        "app_id": 730,
+        "market_hash_name": "Souvenir SG 553 | Fallout Warning (Field-Tested)",
+        "weapon_name": "SG 553",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fyhJ6c-ihombksj5MqnemWVu-8Ik37r--InxgUG55RdrNWryIIGTcQM-NV6DqwO_wrq-g8W7vcyfzXZkvSkqtHzdzh3m1BxSLrs4aPwWtPk",
+        "type": "Souvenir Industrial Grade Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 0.8,
+        "weapon_id": 39,
+        "paint_id": 378
+      }
+    },
+    {
+      "asset_id": "14187876626",
+      "d": "16726408771379007686",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.13645760715007782,
+      "paint_seed": 884,
+      "addons": [
+        {
+          "name": "oskar (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2746
+        },
+        {
+          "name": "mousesports (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2487
+        },
+        {
+          "name": "Avangar (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2511
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 6669,
+        "app_id": 730,
+        "market_hash_name": "Souvenir AUG | Colony (Minimal Wear)",
+        "weapon_name": "AUG",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj4OrzZgiVQvMMm2bDF94723g22-hE6YWr0cdSSJARrYQuBqwK5yejohMC4tMjI1zI97QU4mFpe",
+        "type": "Souvenir Consumer Grade Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 8,
+        "paint_id": 47
+      }
+    },
+    {
+      "asset_id": "14187876559",
+      "d": "7092646521375748232",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.12182186543941498,
+      "paint_seed": 239,
+      "addons": [
+        {
+          "name": "Gambit Esports (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2439
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "KRIMZ (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2632
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 6669,
+        "app_id": 730,
+        "market_hash_name": "Souvenir AUG | Colony (Minimal Wear)",
+        "weapon_name": "AUG",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj4OrzZgiVQvMMm2bDF94723g22-hE6YWr0cdSSJARrYQuBqwK5yejohMC4tMjI1zI97QU4mFpe",
+        "type": "Souvenir Consumer Grade Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 8,
+        "paint_id": 47
+      }
+    },
+    {
+      "asset_id": "14187876528",
+      "d": "16195507770169938432",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3243280351161957,
+      "paint_seed": 913,
+      "addons": [
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "Quantum Bellator Fire (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2527
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "flamie (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2734
+        }
+      ],
+      "item": {
+        "id": 3109,
+        "app_id": 730,
+        "market_hash_name": "Souvenir AUG | Colony (Field-Tested)",
+        "weapon_name": "AUG",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj5Nr_Yg2Yf7ZMg3riZ8YmiiVDg-BBkYDv0ddOUclRqaQ2E-1O9yL3uhJLq6MvJnWwj5HeOUeuJoA",
+        "type": "Souvenir Consumer Grade Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 8,
+        "paint_id": 47
+      }
+    },
+    {
+      "asset_id": "14187876469",
+      "d": "7560005182554761855",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.5591300129890442,
+      "paint_seed": 369,
+      "addons": [
+        {
+          "name": "buster (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2833
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Avangar (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2511
+        },
+        {
+          "name": "mousesports (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2487
+        }
+      ],
+      "item": {
+        "id": 6772,
+        "app_id": 730,
+        "market_hash_name": "Souvenir P90 | Scorched (Battle-Scarred)",
+        "weapon_name": "P90",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO-kYGdjrnyY7-AxjoJvZBzi7CUrNqm0VLm-kNuNm3yIYOWI1NvMlCCrFm-lLztm9bi61uCKX7s",
+        "type": "Souvenir Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Battle-Scarred",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 19,
+        "paint_id": 175
+      }
+    },
+    {
+      "asset_id": "14187876419",
+      "d": "12551081820779230839",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3907618820667267,
+      "paint_seed": 687,
+      "addons": [
+        {
+          "name": "Sprout Esports (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2491
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Spiidi (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2767
+        },
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 4,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        }
+      ],
+      "item": {
+        "id": 5811,
+        "app_id": 730,
+        "market_hash_name": "Souvenir G3SG1 | Safari Mesh (Well-Worn)",
+        "weapon_name": "G3SG1",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7c2DtT6p0j37iUo4_23VW3rkM4azv7ddORIA42aFqE-VnvxL2-hJG5upnXiSw0YOykXs8",
+        "type": "Souvenir Consumer Grade Sniper Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Well-Worn",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 11,
+        "paint_id": 72
+      }
+    },
+    {
+      "asset_id": "14187876355",
+      "d": "12584922735683804305",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2864442467689514,
+      "paint_seed": 895,
+      "addons": [
+        {
+          "name": "Quantum Bellator Fire (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2527
+        },
+        {
+          "name": "flamie (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2734
+        },
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 4406,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187876213",
+      "d": "2892483479978927250",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.15666700899600983,
+      "paint_seed": 506,
+      "addons": [
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "flusha (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2623
+        }
+      ],
+      "item": {
+        "id": 3296,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MP9 | Storm (Field-Tested)",
+        "weapon_name": "MP9",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRv7ODcfi9P6s65mpS0mvLwOq7c2D1S7J0kib6VoYrzjlKw8xc6Y230cIOTeg48aVuG_1fvyOi-1J-8uczXiSw0Q45RiXk",
+        "type": "Souvenir Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 34,
+        "paint_id": 100
+      }
+    },
+    {
+      "asset_id": "14187876183",
+      "d": "922719248368927756",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3553227186203003,
+      "paint_seed": 819,
+      "addons": [
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "flusha (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2623
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        }
+      ],
+      "item": {
+        "id": 7180,
+        "app_id": 730,
+        "market_hash_name": "Souvenir P2000 | Grassland (Field-Tested)",
+        "weapon_name": "P2000",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbfgJF_t2lh4yKmfPLPr7Vn35cppQiie2Qoomm2gfn-0U-NjjwI4WXdQVsYF-G-Fa_k-frhMe-u57InXt9-n51HHcZ8HE",
+        "type": "Souvenir Industrial Grade Pistol",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 32,
+        "paint_id": 95
+      }
+    },
+    {
+      "asset_id": "14187876154",
+      "d": "4759993252030173233",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2681809365749359,
+      "paint_seed": 783,
+      "addons": [
+        {
+          "name": "KRIMZ (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2632
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        }
+      ],
+      "item": {
+        "id": 5609,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Storm (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbZTJQ4dqkm46fqPrxN7LEmyUAvJBz2--Xpt3w2Fe3qUE4NT-gLNXHcgE8Yl6F-wDrl-zv1pK-v8_J1zI97QAw1uAu",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 100
+      }
+    },
+    {
+      "asset_id": "14187875808",
+      "d": "9236507524558716445",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.20491699874401093,
+      "paint_seed": 304,
+      "addons": [
+        {
+          "name": "coldzera (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2638
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "SK Gaming (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2459
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 4406,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187875765",
+      "d": "2595881678971067906",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.27786797285079956,
+      "paint_seed": 42,
+      "addons": [
+        {
+          "name": "mousesports (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2487
+        },
+        {
+          "name": "oskar (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2746
+        },
+        {
+          "name": "FaZe Clan (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2495
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 5879,
+        "app_id": 730,
+        "market_hash_name": "Souvenir UMP-45 | Fallout Warning (Field-Tested)",
+        "weapon_name": "UMP-45",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwOP3fyhJ6c-ihombksj5MqnemWVu5cB1g_zMu9WljlawqRZtZjj2ItKVJg88N1zY-1W-k-u61JW4us-cz3E1vnQgt3_D30vgJu2H52U",
+        "type": "Souvenir Industrial Grade SMG",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 24,
+        "paint_id": 169
+      }
+    },
+    {
+      "asset_id": "14187875669",
+      "d": "16739007251205191775",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.25858449935913086,
+      "paint_seed": 643,
+      "addons": [
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Vega Squadron (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2499
+        },
+        {
+          "name": "EliGE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2818
+        },
+        {
+          "name": "Team Liquid (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2507
+        }
+      ],
+      "item": {
+        "id": 4406,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187875634",
+      "d": "10128140958167160915",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.25857388973236084,
+      "paint_seed": 866,
+      "addons": [
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "Fnatic (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2455
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Edward (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2728
+        }
+      ],
+      "item": {
+        "id": 4406,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187875600",
+      "d": "5480529456374453405",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3804556131362915,
+      "paint_seed": 110,
+      "addons": [
+        {
+          "name": "Skadoodle (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2704
+        },
+        {
+          "name": "Sprout Esports (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2491
+        },
+        {
+          "name": "Cloud9 (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2475
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 3110,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Well-Worn)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Well-Worn",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187875567",
+      "d": "5531725387054964275",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3603663742542267,
+      "paint_seed": 946,
+      "addons": [
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "Quantum Bellator Fire (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2527
+        },
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        },
+        {
+          "name": "Boombl4 (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2896
+        }
+      ],
+      "item": {
+        "id": 4406,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187875524",
+      "d": "7505288399793527345",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.1572825014591217,
+      "paint_seed": 970,
+      "addons": [
+        {
+          "name": "Flash Gaming (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2938
+        },
+        {
+          "name": "Quantum Bellator Fire (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2527
+        },
+        {
+          "name": "Kvik (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2902
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 4406,
+        "app_id": 730,
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "weapon_name": "MAG-7",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemrn2YuqAwjoEv5R03-2Rpt700APl-ko6YmH3IteWdAU6MF3XrgTryOu6m9bi679QuuK1",
+        "type": "Souvenir Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 27,
+        "paint_id": 99
+      }
+    },
+    {
+      "asset_id": "14187875347",
+      "d": "7683752441185170970",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.17473775148391724,
+      "paint_seed": 638,
+      "addons": [
+        {
+          "name": "mousesports (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2487
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "karrigan (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2776
+        },
+        {
+          "name": "FaZe Clan (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2495
+        }
+      ],
+      "item": {
+        "id": 4256,
+        "app_id": 730,
+        "market_hash_name": "Souvenir PP-Bizon | Chemical Green (Field-Tested)",
+        "weapon_name": "PP-Bizon",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3di9H9eO4gYOHkvbmDLzDk25f18d4kObPyoHwjF2hpl1vYGrwIYaUJ1A-NF3UqAW8lei7hpfv6p7KnyZruikm5yrVnUGx1BAecKUx0lcKozTn",
+        "type": "Souvenir Industrial Grade SMG",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 0.9,
+        "weapon_id": 26,
+        "paint_id": 376
+      }
+    },
+    {
+      "asset_id": "14187875267",
+      "d": "14046341070361880080",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.21267329156398773,
+      "paint_seed": 765,
+      "addons": [
+        {
+          "name": "Space Soldiers (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2503
+        },
+        {
+          "name": "Gambit Esports (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2439
+        },
+        {
+          "name": "AdreN (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2563
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        }
+      ],
+      "item": {
+        "id": 3669,
+        "app_id": 730,
+        "market_hash_name": "Souvenir Dual Berettas | Colony (Field-Tested)",
+        "weapon_name": "Dual Berettas",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLbUkmJE5Ysl27uW8dqkiQ3hrxFpYTv0cNeTIwI4YlyF-lPoybjmhpPovs7BynFgpGB8stZHCdGw",
+        "type": "Souvenir Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 2,
+        "paint_id": 47
+      }
+    },
+    {
+      "asset_id": "14187875172",
+      "d": "7261540527349596144",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.36756235361099243,
+      "paint_seed": 794,
+      "addons": [
+        {
+          "name": "Team Liquid (Gold) | Boston 2018",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2507
+        },
+        {
+          "name": "ELEAGUE (Gold) | Boston 2018",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2535
+        },
+        {
+          "name": "nitr0 (Gold) | Boston 2018",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2824
+        },
+        {
+          "name": "Natus Vincere (Gold) | Boston 2018",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2483
+        }
+      ],
+      "item": {
+        "id": 2239,
+        "app_id": 730,
+        "market_hash_name": "Souvenir M249 | Contrast Spray (Field-Tested)",
+        "weapon_name": "M249",
+        "category": "Machinegun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhzw8zbYS9D9eO7kYSCgvq6MLnXxGlT7sYmjL-ZoYijjQy2rUVoZzv6d4PHdQJsNV3XqVO-kum6h4j84srwmAUlJA",
+        "type": "Souvenir Consumer Grade Machinegun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 14,
+        "paint_id": 22
+      }
+    },
+    {
+      "asset_id": "14186695830",
+      "d": "2900558057283414",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.05784108117222786,
+      "paint_seed": 186,
+      "addons": null,
+      "item": {
+        "id": 835,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Army Mesh (Factory New)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0m_7zO6-fzj4I6sFy0u-YoNit2AXn-hZqZmnzI4DBc1A9Z17YrFS_xu7vg5S66YOJlyVojN9Gpw",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.6,
+        "weapon_id": 30,
+        "paint_id": 242
+      }
+    },
+    {
+      "asset_id": "14186695806",
+      "d": "2900558057283414",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.05248609930276871,
+      "paint_seed": 582,
+      "addons": null,
+      "item": {
+        "id": 835,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Army Mesh (Factory New)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0m_7zO6-fzj4I6sFy0u-YoNit2AXn-hZqZmnzI4DBc1A9Z17YrFS_xu7vg5S66YOJlyVojN9Gpw",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.6,
+        "weapon_id": 30,
+        "paint_id": 242
+      }
+    },
+    {
+      "asset_id": "14186695785",
+      "d": "2900558057283414",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.05234745144844055,
+      "paint_seed": 359,
+      "addons": null,
+      "item": {
+        "id": 835,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Army Mesh (Factory New)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0m_7zO6-fzj4I6sFy0u-YoNit2AXn-hZqZmnzI4DBc1A9Z17YrFS_xu7vg5S66YOJlyVojN9Gpw",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.6,
+        "weapon_id": 30,
+        "paint_id": 242
+      }
+    },
+    {
+      "asset_id": "14186695394",
+      "d": "5074548305151859658",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.053336288779973984,
+      "paint_seed": 194,
+      "addons": null,
+      "item": {
+        "id": 42,
+        "app_id": 730,
+        "market_hash_name": "Negev | Army Sheen (Factory New)",
+        "weapon_name": "Negev",
+        "category": "Machinegun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v73cC9P9eOlnImFksj4OrzZgiUCucN0ibHD9N_23AXtqkFtZmigddCWcQI2MF7ZrwK5w7y8h5G87p3J1zI97WZjcPfn",
+        "type": "Consumer Grade Machinegun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.3,
+        "weapon_id": 28,
+        "paint_id": 298
+      }
+    },
+    {
+      "asset_id": "14186695122",
+      "d": "13901745954742300965",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.34420424699783325,
+      "paint_seed": 694,
+      "addons": null,
+      "item": {
+        "id": 829,
+        "app_id": 730,
+        "market_hash_name": "Sawed-Off | Bamboo Shadow (Field-Tested)",
+        "weapon_name": "Sawed-Off",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR97t27lo-EqP3hPbzdk1RT5MRygdbM8Ij8nVn6-kJlazulJdLDcQU5Yw3UrFi7wLjphMW7v5-cwXdruCkhtnbZyxXl1QYMMLJYOu1uow",
+        "type": "Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 0.6,
+        "weapon_id": 29,
+        "paint_id": 458
+      }
+    },
+    {
+      "asset_id": "14186695065",
+      "d": "12396835960732638416",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.031082166358828545,
+      "paint_seed": 840,
+      "addons": null,
+      "item": {
+        "id": 1479,
+        "app_id": 730,
+        "market_hash_name": "PP-Bizon | Night Ops (Factory New)",
+        "weapon_name": "PP-Bizon",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_ummJW4NE_ibqXrd33jAyyrxE_Yz37I4GcIwBqaFGG-gPtkr3php7q78vBnXY1vj5iuyh3J87oJg",
+        "type": "Industrial Grade SMG",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.6,
+        "weapon_id": 26,
+        "paint_id": 236
+      }
+    },
+    {
+      "asset_id": "14186695027",
+      "d": "12396835960732638416",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.04142812639474869,
+      "paint_seed": 49,
+      "addons": null,
+      "item": {
+        "id": 1479,
+        "app_id": 730,
+        "market_hash_name": "PP-Bizon | Night Ops (Factory New)",
+        "weapon_name": "PP-Bizon",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_ummJW4NE_ibqXrd33jAyyrxE_Yz37I4GcIwBqaFGG-gPtkr3php7q78vBnXY1vj5iuyh3J87oJg",
+        "type": "Industrial Grade SMG",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.6,
+        "weapon_id": 26,
+        "paint_id": 236
+      }
+    },
+    {
+      "asset_id": "14186695002",
+      "d": "180746835402843068",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.030639231204986572,
+      "paint_seed": 62,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186694976",
+      "d": "2595802791530078622",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.030088046565651894,
+      "paint_seed": 141,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186694785",
+      "d": "2595802791530078622",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.012851201929152012,
+      "paint_seed": 485,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186694648",
+      "d": "13856065388002280366",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.021304573863744736,
+      "paint_seed": 514,
+      "addons": null,
+      "item": {
+        "id": 1098,
+        "app_id": 730,
+        "market_hash_name": "P250 | Metallic DDPAT (Factory New)",
+        "weapon_name": "P250",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szdYz9D4uO6nYeDg7n1N7iFzm5S6ZxyjuqVoImtiwTh-EBkZW71JtCScgc_MFDX_wO6ye7pm9bi6-hOxTXs",
+        "type": "Industrial Grade Pistol",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.08,
+        "weapon_id": 36,
+        "paint_id": 34
+      }
+    },
+    {
+      "asset_id": "14186694618",
+      "d": "9262356613335387622",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.05956735834479332,
+      "paint_seed": 140,
+      "addons": null,
+      "item": {
+        "id": 1098,
+        "app_id": 730,
+        "market_hash_name": "P250 | Metallic DDPAT (Factory New)",
+        "weapon_name": "P250",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szdYz9D4uO6nYeDg7n1N7iFzm5S6ZxyjuqVoImtiwTh-EBkZW71JtCScgc_MFDX_wO6ye7pm9bi6-hOxTXs",
+        "type": "Industrial Grade Pistol",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.08,
+        "weapon_id": 36,
+        "paint_id": 34
+      }
+    },
+    {
+      "asset_id": "14186694566",
+      "d": "13856065388002280366",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.023021742701530457,
+      "paint_seed": 64,
+      "addons": null,
+      "item": {
+        "id": 1098,
+        "app_id": 730,
+        "market_hash_name": "P250 | Metallic DDPAT (Factory New)",
+        "weapon_name": "P250",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szdYz9D4uO6nYeDg7n1N7iFzm5S6ZxyjuqVoImtiwTh-EBkZW71JtCScgc_MFDX_wO6ye7pm9bi6-hOxTXs",
+        "type": "Industrial Grade Pistol",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.08,
+        "weapon_id": 36,
+        "paint_id": 34
+      }
+    },
+    {
+      "asset_id": "14186694127",
+      "d": "14332719480837014352",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.03100336715579033,
+      "paint_seed": 210,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186694103",
+      "d": "14332719480837014352",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.0285848006606102,
+      "paint_seed": 971,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186694074",
+      "d": "2595802791530078622",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.04708504676818848,
+      "paint_seed": 249,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186694016",
+      "d": "2595802791530078622",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.019546493887901306,
+      "paint_seed": 460,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186693992",
+      "d": "2595802791530078622",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.011973132379353046,
+      "paint_seed": 936,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186693960",
+      "d": "2595802791530078622",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.02465423196554184,
+      "paint_seed": 0,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186693929",
+      "d": "2595802791530078622",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.046879809349775314,
+      "paint_seed": 399,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14186693898",
+      "d": "2595802791530078622",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.03353387117385864,
+      "paint_seed": 680,
+      "addons": null,
+      "item": {
+        "id": 805,
+        "app_id": 730,
+        "market_hash_name": "SCAR-20 | Carbon Fiber (Factory New)",
+        "weapon_name": "SCAR-20",
+        "category": "Sniper Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
+        "type": "Industrial Grade Sniper Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Factory New",
+        "float_min": 0,
+        "float_max": 0.12,
+        "weapon_id": 38,
+        "paint_id": 70
+      }
+    },
+    {
+      "asset_id": "14172822667",
+      "d": "14286051340045331694",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3500122129917145,
+      "paint_seed": 984,
+      "addons": null,
+      "item": {
+        "id": 1467,
+        "app_id": 730,
+        "market_hash_name": "M4A4 | Urban DDPAT (Field-Tested)",
+        "weapon_name": "M4A4",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszMdS1D-OOjhoK0mvLwOq7c2DpXsJB3ju3D89qljAzsqEE4Zmqhd9ScdAU_NF_Q_1G_w-7og5O0u8jXiSw0SDYc6q8",
+        "type": "Industrial Grade Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 16,
+        "paint_id": 17
+      }
+    },
+    {
+      "asset_id": "14153199952",
+      "d": "14584531680877728764",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3871285319328308,
+      "paint_seed": 547,
+      "addons": null,
+      "item": {
+        "id": 1582,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Groundwater (Well-Worn)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvq6ZrjXkDoCv8Mm3-2QoYmsiwey8xBlZmjwdo6UcQU5Z1CFrFS-lbjvg4j84sq_-BQ7Wg",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Well-Worn",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 30,
+        "paint_id": 2
+      }
+    },
+    {
+      "asset_id": "14153199927",
+      "d": "3190423673957969292",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 683,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | GGWP (Frog Green)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0puWyTCa5ODKcLnfaGAoxHLYMNG-LrTCiseXBSjDIQuopRl1XePFQ9TVMb5yLOAx9itAdqGq0mFZwCxo8e9VKaVLvkiwVae3uiqGD8w",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "14137641040",
+      "d": "2893811397421475193",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.39046648144721985,
+      "paint_seed": 710,
+      "addons": [
+        {
+          "name": "TSM Kinguin (Gold) | Katowice 2015",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 341
+        },
+        {
+          "name": "Team LDLC.com | Cologne 2014",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 132
+        },
+        {
+          "name": "Ninjas in Pyjamas (Gold) | Katowice 2015",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 329
+        },
+        {
+          "name": "ESL One (Gold) | Katowice 2015",
+          "slot": 3,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 301
+        }
+      ],
+      "item": {
+        "id": 8325,
+        "app_id": 730,
+        "market_hash_name": "Souvenir AK-47 | Safari Mesh (Well-Worn)",
+        "weapon_name": "AK-47",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zFdC5K08i3mr-GkvP9JrafxTlSvJYg2u_Erdn33wLh80JvMmylJoLAegA5ZVvR_QO6levq0cS_uIOJlyWN3DX90A",
+        "type": "Souvenir Industrial Grade Rifle",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Well-Worn",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 7,
+        "paint_id": 72
+      }
+    },
+    {
+      "asset_id": "14113766014",
+      "d": "7415192454640880376",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2913074791431427,
+      "paint_seed": 190,
+      "addons": null,
+      "item": {
+        "id": 912,
+        "app_id": 730,
+        "market_hash_name": "Dual Berettas | Contractor (Field-Tested)",
+        "weapon_name": "Dual Berettas",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3YTBB09GzkImemrmla-3SxjhTscQhi7jDrYqn31Dh-0BqZm73JdLDc1Q_Y13Q-Fi9yefqm9bi68eOluDW",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 2,
+        "paint_id": 46
+      }
+    },
+    {
+      "asset_id": "13925303717",
+      "d": "2306664088916552768",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.07730267196893692,
+      "paint_seed": 320,
+      "addons": [
+        {
+          "name": "n0thing (Foil) | Krakow 2017",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2317
+        },
+        {
+          "name": "Cloud9 (Holo) | DreamHack 2014",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 202
+        }
+      ],
+      "item": {
+        "id": 3142,
+        "app_id": 730,
+        "market_hash_name": "M4A4 | Desert-Strike (Minimal Wear)",
+        "weapon_name": "M4A4",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszceClD4s-im5KGqPv9NLPF2DoAvJQnj7uYo4ig3wfk-EVlNWr1ItCQewE4Z1CC-ge2x7jsjJ6_upnXiSw0H6_caNI",
+        "type": "Covert Rifle",
+        "rarity": "Covert",
+        "rarity_color": "eb4b4b",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.7,
+        "weapon_id": 16,
+        "paint_id": 336
+      }
+    },
+    {
+      "asset_id": "13878218695",
+      "d": "7684520611052930123",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.35832393169403076,
+      "paint_seed": 184,
+      "addons": null,
+      "item": {
+        "id": 531,
+        "app_id": 730,
+        "market_hash_name": "MP7 | Army Recon (Field-Tested)",
+        "weapon_name": "MP7",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0mvLwOq7c2D1SvcYj2OrCoIim3wKy-BI4ZD_6JoaSIVc5YFvTqVK2lbjogpK86J3XiSw0OGDOkpk",
+        "type": "Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 33,
+        "paint_id": 245
+      }
+    },
+    {
+      "asset_id": "13878218671",
+      "d": "3075618566656466330",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.08625226467847824,
+      "paint_seed": 185,
+      "addons": null,
+      "item": {
+        "id": 736,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Army Mesh (Minimal Wear)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0m_7zO6-fzj4I6sFy0u-YoNit2AXn-hZqZmnzI4DBc1A9Z17YrFS_xu7vg5S66YOJlyVojN9Gpw",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Minimal Wear",
+        "float_min": 0,
+        "float_max": 0.6,
+        "weapon_id": 30,
+        "paint_id": 242
+      }
+    },
+    {
+      "asset_id": "13878218643",
+      "d": "7557181601798249475",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.25504031777381897,
+      "paint_seed": 98,
+      "addons": null,
+      "item": {
+        "id": 1937,
+        "app_id": 730,
+        "market_hash_name": "XM1014 | CaliCamo (Field-Tested)",
+        "weapon_name": "XM1014",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTitD_tW1lY2EqPPxIL7DglRc7cF4n-SPpNmk0Qbl-RI-ZGnyJo_GcwRsYl2G-1jqxO3pjcK8tM-bwHFgs3N3t2GdwUJqy56H1w",
+        "type": "Industrial Grade Shotgun",
+        "rarity": "Industrial Grade",
+        "rarity_color": "5e98d9",
+        "exterior": "Field-Tested",
+        "float_min": 0,
+        "float_max": 0.6,
+        "weapon_id": 25,
+        "paint_id": 240
+      }
+    },
+    {
+      "asset_id": "13878218617",
+      "d": "6935627171739249241",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.31465551257133484,
+      "paint_seed": 462,
+      "addons": null,
+      "item": {
+        "id": 532,
+        "app_id": 730,
+        "market_hash_name": "Nova | Predator (Field-Tested)",
+        "weapon_name": "Nova",
+        "category": "Shotgun",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-GkvP9JraflDhXvMdw27jFp4_32FLl-UpkNmj0LNKWcQI4NA3Wq1TvkL_p15K0uIOJlyUBLttwMQ",
+        "type": "Consumer Grade Shotgun",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 35,
+        "paint_id": 170
+      }
+    },
+    {
+      "asset_id": "13874502895",
+      "d": "7062468913496083572",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.1851600706577301,
+      "paint_seed": 765,
+      "addons": null,
+      "item": {
+        "id": 540,
+        "app_id": 730,
+        "market_hash_name": "Dual Berettas | Colony (Field-Tested)",
+        "weapon_name": "Dual Berettas",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLbUkmJE5Ysl27uW8dqkiQ3hrxFpYTv0cNeTIwI4YlyF-lPoybjmhpPovs7BynFgpGB8stZHCdGw",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 2,
+        "paint_id": 47
+      }
+    },
+    {
+      "asset_id": "13874501854",
+      "d": "7390036336678114258",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.3502207100391388,
+      "paint_seed": 19,
+      "addons": null,
+      "item": {
+        "id": 538,
+        "app_id": 730,
+        "market_hash_name": "Tec-9 | Groundwater (Field-Tested)",
+        "weapon_name": "Tec-9",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvq6ZrjXkDoCv8Mm3-2QoYmsiwey8xBlZmjwdo6UcQU5Z1CFrFS-lbjvg4j84sq_-BQ7Wg",
+        "type": "Consumer Grade Pistol",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 30,
+        "paint_id": 2
+      }
+    },
+    {
+      "asset_id": "13874500810",
+      "d": "2307043850101102624",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.21667605638504028,
+      "paint_seed": 243,
+      "addons": null,
+      "item": {
+        "id": 1019,
+        "app_id": 730,
+        "market_hash_name": "AUG | Contractor (Field-Tested)",
+        "weapon_name": "AUG",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY3FzqagMenQwDwJ7Z1y3LyY893wjALtrUdtYWH3d9XDdlI4N1HS-AC2kPCv28EJ7v_62A",
+        "type": "Consumer Grade Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 8,
+        "paint_id": 46
+      }
+    },
+    {
+      "asset_id": "13874500791",
+      "d": "2307043850101102624",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.27341869473457336,
+      "paint_seed": 819,
+      "addons": null,
+      "item": {
+        "id": 1019,
+        "app_id": 730,
+        "market_hash_name": "AUG | Contractor (Field-Tested)",
+        "weapon_name": "AUG",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY3FzqagMenQwDwJ7Z1y3LyY893wjALtrUdtYWH3d9XDdlI4N1HS-AC2kPCv28EJ7v_62A",
+        "type": "Consumer Grade Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 8,
+        "paint_id": 46
+      }
+    },
+    {
+      "asset_id": "13874500758",
+      "d": "2307043850101102624",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.17923113703727722,
+      "paint_seed": 563,
+      "addons": null,
+      "item": {
+        "id": 1019,
+        "app_id": 730,
+        "market_hash_name": "AUG | Contractor (Field-Tested)",
+        "weapon_name": "AUG",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY3FzqagMenQwDwJ7Z1y3LyY893wjALtrUdtYWH3d9XDdlI4N1HS-AC2kPCv28EJ7v_62A",
+        "type": "Consumer Grade Rifle",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 8,
+        "paint_id": 46
+      }
+    },
+    {
+      "asset_id": "13844022939",
+      "d": "5091886338672821702",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 2565,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Lambda (War Pig Pink)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qe6yEHX6ajPFYSSBRQ8xS7ELZjzeqjLz5b7CSmqfF70sFQ0ALvED9GRINM-LPxI41ocVu2u_0UdyEhk6f9BKZAarxm1ONOkmyyVHT4I9NEM",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "13761164037",
+      "d": "622060250544553275",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.39033839106559753,
+      "paint_seed": 950,
+      "addons": [
+        {
+          "name": "Gambit | Krakow 2017",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2083
+        },
+        {
+          "name": "Virtus.Pro | Krakow 2017",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 2067
+        }
+      ],
+      "item": {
+        "id": 3692,
+        "app_id": 730,
+        "market_hash_name": "StatTrak™ CZ75-Auto | Crimson Web (Well-Worn)",
+        "weapon_name": "CZ75-Auto",
+        "category": "Pistol",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3ZjhA_-O7kYSCgvq6MeuClDpSuccj3erDpt6t3APkqkE4NjvzLIDAe1dsZl-C-1Lvw-zn1oj84so3KaF8AA",
+        "type": "StatTrak™ Mil-Spec Grade Pistol",
+        "rarity": "Mil-Spec Grade",
+        "rarity_color": "4b69ff",
+        "exterior": "Well-Worn",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 63,
+        "paint_id": 12
+      }
+    },
+    {
+      "asset_id": "13726200318",
+      "d": "14593463302145098182",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 436,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Keep the Change (Frog Green)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pe2BEHXlJmDHdnWAGQ88ReUMYTnZ92at5OiSF2zKE-ApEgpVL_QE9DBOOZuJOEAjlNlc7Wa3m0tvEwMkZsxWfBbmnixLN-V1bHZsw8c",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "13726200307",
+      "d": "17071463441279913838",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 3226,
+        "app_id": 730,
+        "market_hash_name": "Sealed Graffiti | Piggles (Princess Pink)",
+        "weapon_name": null,
+        "category": "Graffiti",
+        "image": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0seuKG3jye3nHKXKARVhpTuFeNG-M_2WltLjBRW2YRel_S1sDePAD82AYacuAPhBvysdVrCO7mEhyDBs9ftFPYAOily0XZOtyyVYX0gdS",
+        "type": "Base Grade Graffiti",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "13714009922",
+      "d": "2946179257671910833",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.1337321400642395,
+      "paint_seed": 941,
+      "addons": [
+        {
+          "name": "Fearsome",
+          "slot": 0,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 19
+        },
+        {
+          "name": "Fearsome",
+          "slot": 1,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 19
+        },
+        {
+          "name": "Fearsome",
+          "slot": 2,
+          "wear": null,
+          "offset_x": null,
+          "offset_y": null,
+          "stickerId": 19
+        }
+      ],
+      "item": {
+        "id": 1652,
+        "app_id": 730,
+        "market_hash_name": "AK-47 | Blue Laminate (Minimal Wear)",
+        "weapon_name": "AK-47",
+        "category": "Rifle",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KHgvLLP7LWnn8fupwi0r6SrYililDk80Y4N27xcNCVcgA4aF3Rrli4kO-6g8C9uZzMymwj5HfIy_JcFQ",
+        "type": "Restricted Rifle",
+        "rarity": "Restricted",
+        "rarity_color": "8847ff",
+        "exterior": "Minimal Wear",
+        "float_min": 0.02,
+        "float_max": 0.4,
+        "weapon_id": 7,
+        "paint_id": 226
+      }
+    },
+    {
+      "asset_id": "13699437470",
+      "d": "4611906936628262482",
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": 0.2295275628566742,
+      "paint_seed": 877,
+      "addons": null,
+      "item": {
+        "id": 525,
+        "app_id": 730,
+        "market_hash_name": "PP-Bizon | Sand Dashed (Field-Tested)",
+        "weapon_name": "PP-Bizon",
+        "category": "SMG",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWZU7Mxkh6fA89T30VexrhZuZGGhdtLHcwNrYwqE_Vftwuzt0JS4u87AnCBksici-z-DyLStQtcq",
+        "type": "Consumer Grade SMG",
+        "rarity": "Consumer Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": "Field-Tested",
+        "float_min": 0.06,
+        "float_max": 0.8,
+        "weapon_id": 26,
+        "paint_id": 148
+      }
+    }
+  ]
+}

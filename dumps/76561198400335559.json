@@ -1,0 +1,108 @@
+{
+  "id": "2993",
+  "value": 0,
+  "app_id": 730,
+  "created_at": "2024-09-30T14:46:46.784Z",
+  "items": [
+    {
+      "asset_id": "13438185033",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 4167,
+        "app_id": 730,
+        "market_hash_name": "Gamma Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOiev2ZVBkgafOdW9Hu9jgwYXbxKP2Z7mCw28HucZ1j7mR9tvxjlfk-UY9ZW_tZNjClU49oyY",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "13438184998",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 4167,
+        "app_id": 730,
+        "market_hash_name": "Gamma Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOiev2ZVBkgafOdW9Hu9jgwYXbxKP2Z7mCw28HucZ1j7mR9tvxjlfk-UY9ZW_tZNjClU49oyY",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "13438184491",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 4167,
+        "app_id": 730,
+        "market_hash_name": "Gamma Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOiev2ZVBkgafOdW9Hu9jgwYXbxKP2Z7mCw28HucZ1j7mR9tvxjlfk-UY9ZW_tZNjClU49oyY",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    },
+    {
+      "asset_id": "13438184043",
+      "d": null,
+      "low_rank": null,
+      "high_rank": null,
+      "float_value": null,
+      "paint_seed": null,
+      "addons": null,
+      "item": {
+        "id": 4167,
+        "app_id": 730,
+        "market_hash_name": "Gamma Case Key",
+        "weapon_name": null,
+        "category": "Key",
+        "image": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOiev2ZVBkgafOdW9Hu9jgwYXbxKP2Z7mCw28HucZ1j7mR9tvxjlfk-UY9ZW_tZNjClU49oyY",
+        "type": "Base Grade Key",
+        "rarity": "Base Grade",
+        "rarity_color": "b0c3d9",
+        "exterior": null,
+        "float_min": null,
+        "float_max": null,
+        "weapon_id": null,
+        "paint_id": null
+      }
+    }
+  ]
+}
