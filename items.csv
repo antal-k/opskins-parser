@@ -14,15 +14,15 @@ P250 | Splash (Minimal Wear),35,60095
 Galil AR | Cerberus (Well-Worn),48,67728
 Desert Eagle | Conspiracy (Minimal Wear),376,229360
 Sawed-Off | The Kraken (Field-Tested),31,10943
-MAG-7 | Heat (Minimal Wear),110,10120
+MAG-7 | Heat (Minimal Wear),110,10010
 Nova | Candy Apple (Minimal Wear),399,1995
 MP7 | Armor Core (Field-Tested),194,1940
 P90 | Trigon (Field-Tested),164,125296
-AWP | Worm God (Minimal Wear),907,146027
+AWP | Worm God (Minimal Wear),907,144213
 AUG | Chameleon (Minimal Wear),146,36062
 FAMAS | Neural Net (Minimal Wear),159,16218
 Dual Berettas | Urban Shock (Minimal Wear),59,10443
-M4A4 | Evil Daimyo (Minimal Wear),436,98536
+M4A4 | Evil Daimyo (Minimal Wear),436,98100
 SG 553 | Cyrex (Well-Worn),110,41360
 StatTrak™ USP-S | Stainless (Field-Tested),91,116662
 StatTrak™ M4A1-S | Basilisk (Minimal Wear),176,338624
@@ -57,7 +57,7 @@ P2000 | Handgun (Well-Worn),36,2088
 P2000 | Handgun (Field-Tested),129,8127
 Sticker | Cloud9 | Cologne 2014,46,35374
 Music Kit | Skog, Metal,41,8979
-USP-S | Guardian (Factory New),362,243264
+USP-S | Guardian (Factory New),362,242902
 StatTrak™ P2000 | Handgun (Well-Worn),54,6156
 StatTrak™ M4A4 | Griffin (Field-Tested),136,51000
 StatTrak™ M4A1-S | Blood Tiger (Minimal Wear),151,145866
@@ -335,7 +335,7 @@ M4A1-S | Basilisk (Field-Tested),427,181475
 UMP-45 | Carbon Fiber (Factory New),1187,13057
 Nova | Sand Dune (Battle-Scarred),2731,2731
 Sticker | Natus Vincere | MLG Columbus 2016,177,41418
-Tec-9 | Groundwater (Minimal Wear),1080,1080
+Tec-9 | Groundwater (Minimal Wear),1080,2160
 Operation Wildfire Case,4659,857256
 Nova | Sand Dune (Field-Tested),10643,10643
 SG 553 | Waves Perforated (Minimal Wear),965,965
@@ -521,7 +521,7 @@ MP9 | Setting Sun (Field-Tested),25,14525
 MP7 | Impire (Minimal Wear),94,25286
 P90 | Ash Wood (Field-Tested),305,3355
 Nova | Ranger (Well-Worn),106,2544
-StatTrak™ CZ75-Auto | Pole Position (Field-Tested),53,3604
+StatTrak™ CZ75-Auto | Pole Position (Field-Tested),53,3710
 StatTrak™ Galil AR | Stone Cold (Battle-Scarred),9,2691
 StatTrak™ Dual Berettas | Dualing Dragons (Minimal Wear),43,5375
 XM1014 | Blue Steel (Field-Tested),496,1488
@@ -555,7 +555,7 @@ Sealed Graffiti | Take Flight (War Pig Pink),329,329
 Sealed Graffiti | Speechless (Desert Amber),659,659
 AWP | Man-o'-war (Field-Tested),75,224400
 M4A1-S | Nitro (Battle-Scarred),211,4431
-★ Butterfly Knife | Marble Fade (Factory New),3,618930
+★ Butterfly Knife | Marble Fade (Factory New),3,618972
 Sticker | Hobbit (Foil) | Boston 2018,8,4616
 Sealed Graffiti | Take Flight (Violent Violet),392,784
 AWP | Pit Viper (Field-Tested),740,12580
@@ -706,7 +706,7 @@ Sticker | nitr0 (Foil) | Cluj-Napoca 2015,26,55562
 SSG 08 | Big Iron (Field-Tested),171,143298
 SCAR-20 | Green Marine (Factory New),33,1650
 M4A4 | 龍王 (Dragon King) (Factory New),67,153631
-P90 | Asiimov (Minimal Wear),123,165681
+P90 | Asiimov (Minimal Wear),123,165435
 StatTrak™ M4A1-S | Atomic Alloy (Minimal Wear),40,330600
 StatTrak™ FAMAS | Afterimage (Field-Tested),13,18525
 P90 | Asiimov (Factory New),37,117586
@@ -722,7 +722,7 @@ P90 | Trigon (Battle-Scarred),12,10716
 ★ Bayonet | Urban Masked (Battle-Scarred),7,120267
 ★ StatTrak™ Flip Knife | Damascus Steel (Factory New),1,22071
 Operation Breakout Case Key,671,0
-★ Huntsman Knife | Safari Mesh (Field-Tested),10,97400
+★ Huntsman Knife | Safari Mesh (Field-Tested),10,97330
 StatTrak™ MP9 | Dart (Field-Tested),22,2200
 AK-47 | Elite Build (Factory New),192,92928
 StatTrak™ P2000 | Ivory (Minimal Wear),143,6149
@@ -736,7 +736,7 @@ AUG | Daedalus (Field-Tested),341,148676
 ★ Falchion Knife | Scorched (Minimal Wear),6,64638
 ★ Flip Knife | Ultraviolet (Battle-Scarred),17,270589
 ★ StatTrak™ M9 Bayonet | Case Hardened (Field-Tested),2,132466
-MAC-10 | Neon Rider (Factory New),107,106679
+MAC-10 | Neon Rider (Factory New),107,106465
 ★ StatTrak™ Gut Knife | Fade (Factory New),8,182400
 StatTrak™ M4A1-S | Atomic Alloy (Field-Tested),98,495488
 Galil AR | Eco (Field-Tested),253,117139
@@ -761,7 +761,7 @@ USP-S | Night Ops (Minimal Wear),369,10332
 ★ M9 Bayonet | Urban Masked (Battle-Scarred),10,434340
 ★ StatTrak™ Gut Knife | Forest DDPAT (Battle-Scarred),2,24366
 ★ StatTrak™ Gut Knife | Blue Steel (Field-Tested),2,22230
-★ Bayonet | Night (Well-Worn),9,173007
+★ Bayonet | Night (Well-Worn),9,166725
 ★ Flip Knife | Blue Steel (Minimal Wear),5,116565
 ★ StatTrak™ Gut Knife | Slaughter (Minimal Wear),7,110712
 ★ Bayonet | Tiger Tooth (Factory New),32,1532160
@@ -825,14 +825,14 @@ Tec-9 | Sandstorm (Well-Worn),115,5290
 Tec-9 | Sandstorm (Field-Tested),596,27416
 ★ Huntsman Knife | Fade (Factory New),19,757967
 Tec-9 | Brass (Field-Tested),43,10535
-Glock-18 | Catacombs (Minimal Wear),183,5307
+Glock-18 | Catacombs (Minimal Wear),183,5124
 M4A4 | Desert-Strike (Factory New),26,19682
 P250 | Nuclear Threat (Minimal Wear),15,108240
 Tec-9 | Army Mesh (Field-Tested),5303,5303
 eSports 2014 Summer Case,1320,1077120
 Galil AR | VariCamo (Factory New),99,792
 Sticker | Ninjas in Pyjamas | DreamHack 2014,72,230112
-AK-47 | Safari Mesh (Battle-Scarred),328,2296
+AK-47 | Safari Mesh (Battle-Scarred),328,1968
 Nova | Koi (Factory New),78,9750
 P250 | Contamination (Minimal Wear),125,28875
 Tec-9 | Sandstorm (Minimal Wear),71,9585
@@ -909,7 +909,7 @@ Sealed Graffiti | Backstab (Princess Pink),377,377
 Sealed Graffiti | GGWP (Dust Brown),366,366
 Sealed Graffiti | GGWP (Blood Red),301,301
 P90 | Sand Spray (Battle-Scarred),1246,1246
-AK-47 | Fuel Injector (Field-Tested),48,766080
+AK-47 | Fuel Injector (Field-Tested),48,768816
 Sticker | byali | Krakow 2017,144,21168
 Glock-18 | Off World (Field-Tested),286,3432
 PP-Bizon | Sand Dashed (Well-Worn),1266,1266
@@ -1068,12 +1068,12 @@ Sticker | KRIMZ | Cologne 2015,47,10387
 Five-SeveN | Urban Hazard (Minimal Wear),193,20072
 StatTrak™ Desert Eagle | Bronze Deco (Factory New),151,23405
 StatTrak™ Desert Eagle | Bronze Deco (Minimal Wear),194,18042
-AK-47 | Hydroponic (Field-Tested),20,1709980
+AK-47 | Hydroponic (Field-Tested),20,1695740
 ★ Butterfly Knife | Blue Steel (Battle-Scarred),7,679791
 ★ Huntsman Knife | Case Hardened (Minimal Wear),12,286248
 Souvenir M4A4 | Radiation Hazard (Minimal Wear),7,72534
 AWP | Hyper Beast (Field-Tested),232,608304
-★ Butterfly Knife,15,2754795
+★ Butterfly Knife,15,2754360
 Galil AR | Tuxedo (Minimal Wear),120,8640
 Sticker | Flipsid3 Tactics | Katowice 2015,45,147465
 ★ StatTrak™ Huntsman Knife | Stained (Minimal Wear),1,427482
@@ -1239,7 +1239,7 @@ Souvenir P250 | Gunsmoke (Field-Tested),89,11659
 SSG 08 | Blue Spruce (Minimal Wear),932,932
 M4A1-S | Hyper Beast (Minimal Wear),127,701294
 Galil AR | Cerberus (Field-Tested),113,189614
-AK-47 | Aquamarine Revenge (Field-Tested),185,707255
+AK-47 | Aquamarine Revenge (Field-Tested),185,709105
 AWP | Man-o'-war (Minimal Wear),445,1458265
 MAC-10 | Indigo (Factory New),36,95940
 StatTrak™ AWP | Worm God (Factory New),147,83496
@@ -1371,7 +1371,7 @@ Sealed Graffiti | Jump Shot (Brick Red),411,411
 Sealed Graffiti | Tombstone (Bazooka Pink),233,466
 Sealed Graffiti | Speechless (War Pig Pink),514,1028
 Sealed Graffiti | Jump Shot (Shark White),364,364
-AK-47 | Frontside Misty (Field-Tested),621,707940
+AK-47 | Frontside Misty (Field-Tested),621,699246
 AK-47 | Point Disarray (Minimal Wear),109,183229
 Souvenir P250 | Bone Mask (Field-Tested),142,3550
 Sealed Graffiti | GTG (SWAT Blue),497,497
@@ -1633,7 +1633,7 @@ Sticker | Zeus | Boston 2018,42,6594
 Sealed Graffiti | GTG (Frog Green),564,564
 M4A4 | The Battlestar (Minimal Wear),37,18056
 FAMAS | Afterimage (Minimal Wear),31,84661
-M4A1-S | Leaded Glass (Field-Tested),137,54663
+M4A1-S | Leaded Glass (Field-Tested),137,54389
 ★ Karambit | Rust Coat (Battle-Scarred),14,849072
 Desert Eagle | Oxide Blaze (Minimal Wear),808,31512
 P2000 | Turf (Well-Worn),258,2322
@@ -1716,7 +1716,7 @@ Sealed Graffiti | Bling (Monster Purple),685,685
 Galil AR | Eco (Battle-Scarred),56,12208
 AWP | Worm God (Field-Tested),813,91056
 Sealed Graffiti | GLHF (Frog Green),427,427
-PP-Bizon | Photic Zone (Field-Tested),340,19380
+PP-Bizon | Photic Zone (Field-Tested),340,19040
 Sticker | Team Liquid | Cologne 2016,86,66048
 Sticker | Flipsid3 Tactics | Cologne 2016,56,38304
 Sticker | Fnatic | MLG Columbus 2016,207,38088
@@ -1728,8 +1728,8 @@ Desert Eagle | Directive (Battle-Scarred),158,4740
 SCAR-20 | Storm (Battle-Scarred),61,17812
 P2000 | Imperial Dragon (Factory New),21,15540
 SCAR-20 | Bloodsport (Minimal Wear),68,27132
-StatTrak™ AWP | Phobos (Field-Tested),349,96324
-P90 | Cold Blooded (Factory New),33,160809
+StatTrak™ AWP | Phobos (Field-Tested),349,97022
+P90 | Cold Blooded (Factory New),33,161073
 StatTrak™ Tec-9 | Ice Cap (Well-Worn),33,891
 StatTrak™ Glock-18 | Grinder (Field-Tested),34,14212
 StatTrak™ USP-S | Torque (Minimal Wear),218,59078
@@ -1988,7 +1988,7 @@ P250 | Mint Kimono (Factory New),62,27094
 Tec-9 | Sandstorm (Battle-Scarred),98,4116
 UMP-45 | Scorched (Field-Tested),403,22568
 M4A1-S | Atomic Alloy (Factory New),59,485865
-★ Gut Knife | Boreal Forest (Field-Tested),24,235416
+★ Gut Knife | Boreal Forest (Field-Tested),24,235248
 StatTrak™ M4A4 | Zirka (Factory New),5,51155
 Souvenir PP-Bizon | Chemical Green (Field-Tested),75,10125
 StatTrak™ Negev | Desert-Strike (Field-Tested),63,1638
@@ -2311,7 +2311,7 @@ Krakow 2017 Inferno Souvenir Package,10,16580
 Autograph Capsule | Natus Vincere | Cluj-Napoca 2015,110,68310
 StatTrak™ CZ75-Auto | Imprint (Well-Worn),111,1221
 Tec-9 | Urban DDPAT (Factory New),80,1200
-AWP | Pit Viper (Well-Worn),115,3220
+AWP | Pit Viper (Well-Worn),115,3450
 SCAR-20 | Blueprint (Factory New),95,3515
 Sealed Graffiti | Tilt (Frog Green),494,494
 Sealed Graffiti | Karambit (Jungle Green),283,283
@@ -2469,7 +2469,7 @@ Sticker | jR (Foil) | Boston 2018,11,7524
 MP7 | Gunsmoke (Minimal Wear),62,18042
 ★ Bayonet | Doppler (Factory New) - Phase 4,15,910575
 StatTrak™ Glock-18 | Off World (Well-Worn),38,798
-Souvenir Dual Berettas | Colony (Minimal Wear),25,1525
+Souvenir Dual Berettas | Colony (Minimal Wear),25,1500
 Souvenir SG 553 | Fallout Warning (Battle-Scarred),17,1649
 Sealed Graffiti | GLHF (Bazooka Pink),331,662
 Sealed Graffiti | Jump Shot (Monster Purple),287,287
@@ -2522,7 +2522,7 @@ Sealed Graffiti | GGEZ (Brick Red),219,438
 Tec-9 | Jambiya (Field-Tested),121,7018
 StatTrak™ Galil AR | Sandstorm (Well-Worn),22,4136
 MAG-7 | Cobalt Core (Factory New),86,4300
-PP-Bizon | Jungle Slipstream (Factory New),204,6528
+PP-Bizon | Jungle Slipstream (Factory New),204,6324
 StatTrak™ XM1014 | Scumbria (Battle-Scarred),64,1600
 StatTrak™ P250 | Iron Clad (Field-Tested),204,3468
 Sealed Graffiti | Noscope (Bazooka Pink),503,503
@@ -2564,7 +2564,7 @@ G3SG1 | VariCamo (Battle-Scarred),78,312
 Sticker | Maniac | Cologne 2015,4,8548
 Sticker | G2 Esports (Foil) | Cluj-Napoca 2015,47,66223
 StatTrak™ Sawed-Off | Origami (Factory New),53,3763
-StatTrak™ PP-Bizon | Cobalt Halftone (Factory New),14,3990
+StatTrak™ PP-Bizon | Cobalt Halftone (Factory New),14,4648
 ★ Karambit | Marble Fade (Factory New),14,1962072
 StatTrak™ MP9 | Rose Iron (Factory New),44,58916
 Sawed-Off | Highwayman (Well-Worn),23,3542
@@ -2600,7 +2600,7 @@ M4A1-S | VariCamo (Well-Worn),109,3488
 StatTrak™ Glock-18 | Wraiths (Battle-Scarred),118,4130
 P250 | Nuclear Threat (Battle-Scarred),7,498743
 AWP | Oni Taiji (Well-Worn),4,65836
-AK-47 | Hydroponic (Minimal Wear),7,951405
+AK-47 | Hydroponic (Minimal Wear),7,951461
 Dual Berettas | Hemoglobin (Factory New),37,26936
 SSG 08 | Ghost Crusader (Field-Tested),291,13677
 MAG-7 | Petroglyph (Factory New),38,5244
@@ -2677,7 +2677,7 @@ StatTrak™ AWP | BOOM (Field-Tested),9,120429
 Glock-18 | Catacombs (Battle-Scarred),51,2754
 Desert Eagle | Bronze Deco (Minimal Wear),377,9048
 Nova | Walnut (Well-Worn),51,8721
-StatTrak™ Negev | Bratatat (Battle-Scarred),11,1914
+StatTrak™ Negev | Bratatat (Battle-Scarred),11,1903
 Souvenir PP-Bizon | Irradiated Alert (Battle-Scarred),18,630
 Sticker | Team EnVyUs (Holo) | Katowice 2015,43,349246
 USP-S | Caiman (Minimal Wear),137,662669
@@ -3332,7 +3332,7 @@ M4A1-S | Briefing (Field-Tested),212,59996
 StatTrak™ Tec-9 | Cut Out (Minimal Wear),15,7605
 Sealed Graffiti | GTG (Blood Red),494,494
 SG 553 | Traveler (Well-Worn),15,11985
-Glock-18 | Ironwork (Minimal Wear),166,3154
+Glock-18 | Ironwork (Minimal Wear),166,2822
 Sealed Graffiti | Quickdraw (Brick Red),376,752
 Sealed Graffiti | Gambit Gaming | Atlanta 2017,62,17670
 Sticker | Gambit Gaming | Atlanta 2017,94,17014
@@ -3587,7 +3587,7 @@ Souvenir AUG | Contractor (Minimal Wear),3,11970
 ★ Karambit | Bright Water (Field-Tested),5,323115
 StatTrak™ CZ75-Auto | Tacticat (Field-Tested),25,1850
 AWP | Fever Dream (Factory New),223,276520
-Galil AR | Sugar Rush (Factory New),36,203400
+Galil AR | Sugar Rush (Factory New),36,218016
 Sawed-Off | Snake Camo (Battle-Scarred),139,556
 StatTrak™ Glock-18 | Wasteland Rebel (Minimal Wear),3,4587
 Negev | Power Loader (Minimal Wear),28,8764
@@ -4069,7 +4069,7 @@ Souvenir MAG-7 | Storm (Field-Tested),132,264
 FAMAS | Sergeant (Field-Tested),66,20658
 StatTrak™ Five-SeveN | Fowl Play (Field-Tested),34,16830
 Souvenir MP9 | Storm (Battle-Scarred),18,252
-StatTrak™ USP-S | Orion (Factory New),16,166784
+StatTrak™ USP-S | Orion (Factory New),16,166896
 Galil AR | Cerberus (Factory New),12,66432
 M4A4 | Faded Zebra (Factory New),6,11886
 StatTrak™ MAG-7 | Heat (Battle-Scarred),39,2886
@@ -4652,7 +4652,7 @@ StatTrak™ P250 | Muertos (Battle-Scarred),28,77588
 StatTrak™ SCAR-20 | Cyrex (Battle-Scarred),1,6777
 StatTrak™ CZ75-Auto | Yellow Jacket (Factory New),2,5612
 XM1014 | CaliCamo (Battle-Scarred),47,188
-MP7 | Bloodsport (Field-Tested),17,1921
+MP7 | Bloodsport (Field-Tested),17,1904
 Sticker | Black Dog,11,396
 FAMAS | Macabre (Well-Worn),18,4446
 P250 | See Ya Later (Battle-Scarred),13,2288
@@ -4667,7 +4667,7 @@ Sticker | f0rest (Foil) | Cluj-Napoca 2015,4,8264
 Sticker | Vox Eminor | Cologne 2014,17,32453
 P2000 | Pathfinder (Factory New),32,65600
 XM1014 | Tranquility (Factory New),42,71820
-StatTrak™ PP-Bizon | Blue Streak (Minimal Wear),26,13702
+StatTrak™ PP-Bizon | Blue Streak (Minimal Wear),26,14560
 Negev | Loudmouth (Minimal Wear),26,14066
 StatTrak™ P2000 | Ivory (Factory New),21,4473
 P250 | Nuclear Threat (Well-Worn),4,6108
@@ -4704,7 +4704,7 @@ StatTrak™ MAC-10 | Malachite (Field-Tested),15,4530
 Sealed Graffiti | Still Happy (Tracer Yellow),305,610
 Sticker | oskar | Krakow 2017,386,93026
 StatTrak™ Music Kit | Roam, Backbone,14,2996
-AK-47 | Neon Revolution (Field-Tested),174,266742
+AK-47 | Neon Revolution (Field-Tested),174,272658
 MAG-7 | Sonar (Well-Worn),28,280
 Sealed Graffiti | Astralis | Krakow 2017,101,14241
 StatTrak™ Music Kit | Hundredth, FREE,27,1593
@@ -4891,7 +4891,7 @@ Sticker | London Conspiracy | Cologne 2014,10,22800
 Glock-18 | Night (Factory New),10,36980
 StatTrak™ Galil AR | Eco (Battle-Scarred),20,9940
 Souvenir SG 553 | Damascus Steel (Factory New),1,5985
-G3SG1 | Hunter (Factory New),15,315
+G3SG1 | Hunter (Factory New),15,300
 StatTrak™ MP9 | Goo (Minimal Wear),3,504
 StatTrak™ Galil AR | Firefight (Minimal Wear),15,3105
 Desert Eagle | Sunset Storm 壱 (Field-Tested),9,221823
@@ -5400,7 +5400,7 @@ StatTrak™ M4A4 | Royal Paladin (Factory New),2,42662
 XM1014 | Bone Machine (Well-Worn),5,2710
 Hydra Pin,12,4656
 Sealed Graffiti | Space Soldiers | Boston 2018,10,1130
-M249 | Nebula Crusader (Well-Worn),52,5512
+M249 | Nebula Crusader (Well-Worn),52,5564
 Souvenir MAC-10 | Indigo (Well-Worn),23,3887
 Sticker | byali | Atlanta 2017,31,8835
 StatTrak™ SG 553 | Triarch (Minimal Wear),59,6903
@@ -5617,7 +5617,7 @@ StatTrak™ PP-Bizon | Fuel Rod (Factory New),10,5680
 FAMAS | Roll Cage (Minimal Wear),41,15293
 Sticker | HEN1 (Foil) | Krakow 2017,25,44125
 StatTrak™ Galil AR | Black Sand (Field-Tested),70,1820
-USP-S | Cyrex (Factory New),185,47360
+USP-S | Cyrex (Factory New),185,47175
 StatTrak™ XM1014 | Seasons (Well-Worn),8,1968
 Sticker | NiKo | MLG Columbus 2016,9,15390
 Souvenir Galil AR | Cerberus (Well-Worn),2,5092
@@ -6302,7 +6302,7 @@ USP-S | Neo-Noir (Minimal Wear),25,42750
 Sticker | seang@res | Boston 2018,10,52440
 Sticker | Astralis (Foil) | Krakow 2017,11,18381
 Sticker | arya | MLG Columbus 2016,18,102474
-Souvenir MP9 | Storm (Minimal Wear),43,9202
+Souvenir MP9 | Storm (Minimal Wear),43,8643
 Sticker | EliGE (Foil) | MLG Columbus 2016,4,10204
 ★ Gut Knife | Crimson Web (Minimal Wear),3,43134
 Sticker | mousesports (Holo) | MLG Columbus 2016,51,141729
@@ -6360,12 +6360,12 @@ SSG 08 | Big Iron (Well-Worn),26,17368
 StatTrak™ USP-S | Cortex (Field-Tested),5,2165
 ★ Huntsman Knife | Urban Masked (Field-Tested),29,296699
 ★ Falchion Knife | Scorched (Field-Tested),14,140644
-M4A1-S | Leaded Glass (Minimal Wear),49,27881
+M4A1-S | Leaded Glass (Minimal Wear),49,27783
 ★ StatTrak™ Butterfly Knife | Stained (Minimal Wear),1,85214
 PP-Bizon | Sand Dashed (Factory New),24,168
 ★ Gut Knife | Scorched (Battle-Scarred),6,55572
 StatTrak™ P250 | Asiimov (Battle-Scarred),24,14328
-★ Hand Wraps | Spruce DDPAT (Field-Tested),3,33960
+★ Hand Wraps | Spruce DDPAT (Field-Tested),3,33771
 StatTrak™ Nova | Exo (Well-Worn),25,725
 Souvenir XM1014 | VariCamo Blue (Minimal Wear),8,704
 ★ Bayonet | Urban Masked (Well-Worn),7,121198
@@ -6560,7 +6560,7 @@ AK-47 | Fuel Injector (Factory New),6,232560
 AUG | Colony (Minimal Wear),22,6116
 Sticker | pyth | Cologne 2016,12,3984
 Sticker | Natus Vincere | Katowice 2014,3,200454
-Galil AR | Orange DDPAT (Field-Tested),14,18844
+Galil AR | Orange DDPAT (Field-Tested),14,18018
 StatTrak™ CZ75-Auto | Tread Plate (Minimal Wear),3,2979
 Sticker | Shooting Star Return,11,671
 StatTrak™ P90 | Grim (Well-Worn),46,4278
@@ -6844,7 +6844,7 @@ Five-SeveN | Nightshade (Minimal Wear),12,2364
 Sticker | rain | Cologne 2016,3,5595
 Sticker | cajunb (Foil) | Boston 2018,7,5194
 USP-S | Cyrex (Battle-Scarred),46,3450
-StatTrak™ Five-SeveN | Scumbria (Factory New),19,3116
+StatTrak™ Five-SeveN | Scumbria (Factory New),19,3135
 Sticker | pashaBiceps | Cologne 2016,7,4368
 Sticker | JW (Foil) | Cologne 2016,6,9246
 ★ Bayonet | Safari Mesh (Field-Tested),20,344280
@@ -7126,7 +7126,7 @@ Sticker | shox (Foil) | Boston 2018,12,7692
 Sticker | Kjaerbye | Atlanta 2017,28,35112
 StatTrak™ Nova | Rising Skull (Factory New),8,11032
 Sticker | s1mple (Foil) | Cologne 2016,1,22800
-StatTrak™ Desert Eagle | Directive (Minimal Wear),49,31997
+StatTrak™ Desert Eagle | Directive (Minimal Wear),49,32046
 Five-SeveN | Hyper Beast (Field-Tested),37,86913
 StatTrak™ M4A1-S | Golden Coil (Battle-Scarred),14,104398
 ★ Flip Knife | Stained (Well-Worn),14,217252
@@ -7318,7 +7318,7 @@ Sticker | Witch,15,960
 Souvenir MP7 | Gunsmoke (Well-Worn),9,90
 XM1014 | Blaze Orange (Field-Tested),4,5300
 ★ Shadow Daggers | Rust Coat (Battle-Scarred),12,121068
-Souvenir MAG-7 | Irradiated Alert (Battle-Scarred),15,375
+Souvenir MAG-7 | Irradiated Alert (Battle-Scarred),15,390
 ★ Karambit | Gamma Doppler (Factory New) - Phase 3,8,1747264
 Cologne 2016 Cache Souvenir Package,3,9510
 StatTrak™ Desert Eagle | Crimson Web (Battle-Scarred),17,21794
@@ -7431,7 +7431,7 @@ StatTrak™ AUG | Aristocrat (Well-Worn),27,6399
 ★ StatTrak™ Karambit | Boreal Forest (Battle-Scarred),2,99750
 ★ Karambit | Safari Mesh (Well-Worn),6,285570
 StatTrak™ P250 | Steel Disruption (Field-Tested),16,8720
-StatTrak™ CZ75-Auto | Xiangliu (Minimal Wear),6,11670
+StatTrak™ CZ75-Auto | Xiangliu (Minimal Wear),6,11712
 Sticker | coldzera (Foil) | Cologne 2016,5,15965
 ★ Butterfly Knife | Stained (Well-Worn),11,813527
 StatTrak™ Nova | Rising Skull (Field-Tested),9,7947
@@ -7835,7 +7835,7 @@ M4A4 | Radiation Hazard (Well-Worn),4,22800
 Glock-18 | Sand Dune (Battle-Scarred),7,7721
 Sealed Graffiti | Misfits Gaming | Boston 2018,16,2320
 Sticker | NEO (Foil) | Cologne 2016,6,7224
-★ Karambit | Safari Mesh (Battle-Scarred),2,95418
+★ Karambit | Safari Mesh (Battle-Scarred),2,95414
 ★ Bowie Knife | Blue Steel (Factory New),1,41154
 StatTrak™ P250 | Muertos (Well-Worn),5,4980
 MAG-7 | Memento (Minimal Wear),13,6825
@@ -7952,7 +7952,7 @@ CZ75-Auto | Hexane (Well-Worn),24,307800
 Sealed Graffiti | Chabo,2,94
 ★ StatTrak™ Bowie Knife | Ultraviolet (Field-Tested),1,12184
 StatTrak™ FAMAS | Valence (Battle-Scarred),20,5640
-PP-Bizon | Blue Streak (Well-Worn),5,1100
+PP-Bizon | Blue Streak (Well-Worn),5,1095
 StatTrak™ P90 | Chopper (Battle-Scarred),29,3654
 Sticker | Viggo (Holo),3,705
 Souvenir AUG | Condemned (Battle-Scarred),1,14167
@@ -8161,7 +8161,7 @@ CZ75-Auto | Green Plaid (Battle-Scarred),15,5340
 StatTrak™ M4A4 | Howl (Factory New),1,1239740
 ★ Huntsman Knife | Safari Mesh (Well-Worn),5,51300
 StatTrak™ Nova | Wild Six (Field-Tested),10,420
-★ Flip Knife | Freehand (Factory New),4,87552
+★ Flip Knife | Freehand (Factory New),4,87524
 MAG-7 | Hazard (Battle-Scarred),8,39656
 StatTrak™ Tec-9 | Cut Out (Battle-Scarred),4,1260
 StatTrak™ Music Kit | Daniel Sadowski, The 8-Bit Kit,13,5629
@@ -8220,7 +8220,7 @@ Sugarface Capsule,9,765
 Autograph Capsule | Flipsid3 Tactics | MLG Columbus 2016,4,2944
 ★ Gut Knife | Boreal Forest (Minimal Wear),6,57882
 ★ Bowie Knife | Safari Mesh (Well-Worn),1,9908
-★ Bowie Knife | Scorched (Field-Tested),7,69167
+★ Bowie Knife | Scorched (Field-Tested),7,69118
 Sticker | Merietta (Holo),8,672
 Sticker | dupreeh | Boston 2018,26,4212
 SG 553 | Bulldozer (Well-Worn),4,53916
@@ -8280,7 +8280,7 @@ StatTrak™ Nova | Bloomstick (Well-Worn),2,11386
 Negev | Lionfish (Well-Worn),5,135
 ★ Gut Knife | Blue Steel (Factory New),3,41895
 ★ Shadow Daggers | Stained (Battle-Scarred),8,71760
-StatTrak™ SG 553 | Phantom (Battle-Scarred),17,1258
+StatTrak™ SG 553 | Phantom (Battle-Scarred),17,1241
 ★ Driver Gloves | King Snake (Field-Tested),2,62130
 M4A4 | Radiation Hazard (Battle-Scarred),4,11400
 Sticker | WorldEdit (Gold) | Krakow 2017,2,61274
@@ -8367,7 +8367,7 @@ Sealed Graffiti | Astralis | Boston 2018,6,1020
 StatTrak™ G3SG1 | Hunter (Factory New),12,1488
 AUG | Bengal Tiger (Battle-Scarred),4,2480
 Sticker | Bash (Holo),3,726
-★ Specialist Gloves | Mogul (Field-Tested),1,16102
+★ Specialist Gloves | Mogul (Field-Tested),1,16174
 Sticker | Vox Eminor | Katowice 2014,3,209472
 Sticker | AZR | Cologne 2015,1,1710
 StatTrak™ MAG-7 | SWAG-7 (Factory New),2,748
@@ -8416,7 +8416,7 @@ Sticker | Cheongsam (Holo),17,1717
 R8 Revolver | Llama Cannon (Well-Worn),1,242
 G3SG1 | Safari Mesh (Battle-Scarred),6,1650
 Sticker | Xyp9x (Foil) | Boston 2018,3,2385
-StatTrak™ Five-SeveN | Flame Test (Factory New),14,826
+StatTrak™ Five-SeveN | Flame Test (Factory New),14,798
 MAC-10 | Curse (Battle-Scarred),2,2508
 Sealed Graffiti | Zombie Hop,3,249
 Sticker | jR (Foil) | Krakow 2017,10,25220
@@ -9203,7 +9203,7 @@ AK-47 | Fire Serpent (Factory New),2,430332
 ★ Shadow Daggers | Stained (Factory New),3,38730
 ★ Butterfly Knife | Ultraviolet (Field-Tested),2,168990
 Autograph Capsule | SK Gaming | Atlanta 2017,16,10384
-★ Karambit | Lore (Minimal Wear),3,391992
+★ Karambit | Lore (Minimal Wear),3,392013
 ★ Driver Gloves | Lunar Weave (Well-Worn),1,10841
 ★ Bayonet | Lore (Minimal Wear),2,113856
 ★ Bayonet | Damascus Steel (Well-Worn),1,25165
